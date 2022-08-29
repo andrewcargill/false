@@ -1,3 +1,7 @@
+html, body {
+    height: 100%;
+}
+
 body {
     background-color: #e31c1c;
     border: 0;
@@ -52,10 +56,14 @@ nav li {
     font-size: 20px;
 }
 
-#imge-is-everything-text {
+#image-is-everything-text {
     position: absolute;
-    margin: 20%;
-    text-align: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) ;
+}
+
+#image-is-everything-text span {
     color: #e31c1c;
 }
 
