@@ -1,5 +1,22 @@
+body {
+    background-color: #e31c1c;
+
+}
+
 nav {
-    background-color: blue;
+    position: sticky;
+    margin: 0;
+    z-index: 3;
+    background-color: #fff;
+    height: 20px;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 5%;
 }
 
 section {
