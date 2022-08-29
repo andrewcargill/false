@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: #e31c1c;
     border: 0;
 
 }
@@ -54,4 +54,16 @@ nav li {
 
 #landing-page-logo {
     width: 100%;
+}
+
+.red-spacer {
+    background-color: #e31c1c;
+    width: 100%;
+    min-height: 100px;
+}
+
+#mens-clothing {
+    background-color: #fff;
+    width: 100%;
+    min-height: 300px;
 }
