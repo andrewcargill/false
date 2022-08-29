@@ -35,7 +35,8 @@ nav li {
    position: relative;
    background-color: #e31c1c;
    margin: 0;
-   height: 40rem;
+   bottom: 0;
+   height: 90%;
 }
 
 #landing-page-whitebox {
@@ -45,7 +46,7 @@ nav li {
     right: 10%;
     background-color: #fff;
     width: auto;
-    min-height: 80%;
+    height: 50%;
 }
 
 #designer-clothing-text {
