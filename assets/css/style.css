@@ -36,3 +36,18 @@ nav li {
     width: auto;
     min-height: 80%;
 }
+
+#designer-clothing-text {
+    position: absolute;
+    top: -11%;
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+}
+
+#imge-is-everything-text {
+    position: absolute;
+    margin: 20%;
+    text-align: center;
+    color: #e31c1c;
+}
