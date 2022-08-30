@@ -13,14 +13,13 @@ html, body {
 body {
     background-color: #e31c1c;
     border: 0;
-
 }
 
-/*container is blocking navigation */
-
-nav {
+nav ul {
     position: fixed;
-    margin: 0;
+    left: 0;
+    right: 0;
+    margin: 0 0;
     border: 0;
     z-index: 3;
     background-color: #fff;
@@ -28,19 +27,49 @@ nav {
     height: auto;
 }
 
-nav ul {
-    background-color: #fff;
-    margin: 0;
-    border: 0;
-    padding: 0;
+nav li {
+    float: left;
+    display: block;
+    margin-left: 2%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
 }
+
+#home {
+    margin-left: 8%;
+}
+
+/* Navigation alignment problem
+nav li {
+    display: inline;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+}
+
+
 
 nav li {
     display: inline;
     list-style-type: none;
     text-align: center;
     vertical-align: middle;
-    padding-left: 15%;
+    padding-left: 13%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+}
+*/
+
+
+
+.retailers {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.audio {
+    float: right;
 }
 
 #landing-page-background {
