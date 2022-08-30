@@ -22,7 +22,7 @@ nav ul {
     margin: 0 0;
     border: 0;
     z-index: 3;
-    background-color: #fff;
+    background-color: #e31c1c;
     width: 100%;
     height: auto;
 }
@@ -40,17 +40,17 @@ nav li {
 
 nav a:link {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 nav a:visited {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 nav a:hover {
-    background-color: #e31c1c;
-    color: #fff;
+    background-color: white;
+    color: #e31c1c;
 }
 
 
