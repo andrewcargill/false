@@ -182,9 +182,9 @@ nav li {
 /* Mens clothing page*/
 
 #mens-clothing-background {
-    background-color: #fff;
+    background-color: grey;
     width: 100%;
-    min-height: 80%;
+    min-height: 100%;
 }
 
 #mens-clothing-text {
@@ -216,6 +216,14 @@ nav li {
     width: 30%;
     max-height: 137px;
     max-width: 519px;
+}
+
+/* Reailers section*/
+
+#retailers {
+    background-color: red;
+    width: 100%;
+    min-height: 100%;
 }
 
 
