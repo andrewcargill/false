@@ -13,6 +13,7 @@ html, body {
 body {
     background-color: #e31c1c;
     border: 0;
+    margin: 0;
 }
 
 nav ul {
@@ -94,7 +95,7 @@ nav li {
    background-color: #e31c1c;
    margin: 0;
    top: 0;
-   height: 90%;
+   height: 110%;
 }
 
 #landing-page-whitebox {
@@ -150,3 +151,20 @@ nav li {
     width: 100%;
     min-height: 80%;
 }
+
+/* Resizing of landing page for larger screens - currently not working
+
+@media only screen and (max-width: 600px) and (min-width:400px){
+
+    #landing-page-whitebox {
+        position: absolute;
+        bottom: 0;
+        left: 2%;
+        right: 10%;
+        background-color: #fff;
+        width: auto;
+        height: 60%;
+    }
+}
+
+*/
