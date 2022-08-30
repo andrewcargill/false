@@ -9,7 +9,7 @@ html, body {
     height: 100%;
 }
 
-/* styleing of h2 and p elements */
+/* element styling*/
 
 h2, p {
     font-family: 'Source Sans Pro', sans-serif;
@@ -23,6 +23,17 @@ h2 {
 p {
     font-size: 13px;
 }
+
+figcaption {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    color: black;
+    background-color: pink;
+    font-size: 12px;
+    margin-right: 0;
+}
+
+
 
 
 
@@ -182,6 +193,14 @@ nav li {
     padding: 10px;
 }
 
+#mens-clothing-text h2 {
+    position: absolute;
+    top: -55px;
+    display: block;
+    color: black;
+
+}
+
 #mens-clothing-image {
     border: 3px solid blue;
     padding: 10px;
@@ -193,13 +212,7 @@ nav li {
     max-width: 561px;
 }
 
-#mens-clothing-text h2 {
-    position: absolute;
-    top: -55px;
-    display: block;
-    color: black;
 
-}
 
 
 /* Resizing of landing page for larger screens - currently not working
