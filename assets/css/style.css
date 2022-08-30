@@ -9,11 +9,29 @@ html, body {
     height: 100%;
 }
 
+/* styleing of h2 and p elements */
+
+h2, p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+}   
+
+h2 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 13px;
+}
+
+
 
 body {
     border: 0;
     margin: 0;
 }
+
+/* navigation element styling*/
 
 nav ul {
     position: fixed;
@@ -74,7 +92,7 @@ nav li {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
 }
-*/
+
 
 
 
@@ -88,6 +106,9 @@ nav li {
 .audio {
     float: right;
 }
+*/
+
+/* Landing Page */
 
 #landing-page-background {
    position: relative;
@@ -139,11 +160,15 @@ nav li {
     width: 280px;
 }
 
+/* Red spacer classes */
+
 .red-spacer {
     background-color: #e31c1c;
     width: 100%;
     min-height: 200px;
 }
+
+/* Mens clothing page*/
 
 #mens-clothing-background {
     background-color: #fff;
@@ -157,11 +182,16 @@ nav li {
 }
 
 #mens-clothing-image {
-    width: 50%;
-    float: left;
+    border: 3px solid blue;
     padding: 10px;
-    border: 3px solid yellow;
 }
+
+
+
+
+
+
+
 
 /* Resizing of landing page for larger screens - currently not working
 
