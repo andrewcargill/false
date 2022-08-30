@@ -2,6 +2,7 @@
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Source+Sans+Pro:wght@300;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500;800;900&display=swap');
 
 
 html, body {
@@ -77,9 +78,12 @@ nav li {
 }
 
 #image-is-everything-text span {
+    display: block;
     color: #e31c1c;
+    margin: 2px;
+    width:  auto;
     font-family: 'Source Code Pro', monospace;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 #landing-page-logo {
