@@ -25,10 +25,12 @@ nav {
     z-index: 3;
     background-color: #fff;
     width: 100%;
-    max-height: 3%;
+    height: auto;
 }
 
 nav ul {
+    background-color: #fff;
+    margin: 0;
     border: 0;
     padding: 0;
 }
