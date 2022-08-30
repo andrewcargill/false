@@ -250,6 +250,7 @@ max-width: 430px;
 
 */
 @media only screen and (max-width: 600px) and (min-width:100px){
+/* Image Resizing */
     #mens-clothing-image img {
         width: 100%;
     }
