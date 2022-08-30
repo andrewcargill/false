@@ -25,7 +25,6 @@ nav ul {
     background-color: #fff;
     width: 100%;
     height: auto;
-   
 }
 
 nav li {
@@ -37,10 +36,25 @@ nav li {
     font-size: 12px;
 }
 
-#home {
-    margin-left: 8%;
-    text-transform: capitalize;
+/* navigation links styling*/
+
+nav a:link {
+    text-decoration: none;
+    color: black;
 }
+
+nav a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    background-color: #e31c1c;
+    color: #fff;
+}
+
+
+
 
 /* Navigation alignment problem
 nav li {
