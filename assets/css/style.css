@@ -212,7 +212,11 @@ nav li {
     max-width: 561px;
 }
 
-
+.collection-logo img {
+    width: 30%;
+    max-height: 137px;
+    max-width: 519px;
+}
 
 
 /* Resizing of landing page for larger screens - currently not working
@@ -241,4 +245,8 @@ nav li {
         border: 0;
         padding: 0;
     }
+
+    .collection-logo img {
+        width: 80%;  
+      }
 }
