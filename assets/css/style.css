@@ -233,6 +233,12 @@ nav li {
 */
 @media only screen and (max-width: 600px) and (min-width:100px){
     #mens-clothing-image img {
-        width: 90%;
+        width: 100%;
+    }
+
+    #mens-clothing-image {
+        position: relative;
+        border: 0;
+        padding: 0;
     }
 }
