@@ -226,6 +226,12 @@ nav li {
     min-height: 100%;
 }
 
+#rose-image img {
+width: 30%;
+max-height: 568px;
+max-width: 430px;
+}
+
 
 /* Resizing of landing page for larger screens - currently not working
 
@@ -257,4 +263,9 @@ nav li {
     .collection-logo img {
         width: 80%;  
       }
+    
+    #rose-image img {
+        width: 80%;
+        }
 }
+
