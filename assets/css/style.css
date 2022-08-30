@@ -151,6 +151,18 @@ nav li {
     min-height: 80%;
 }
 
+#mens-clothing-text {
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#mens-clothing-image {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    border: 3px solid yellow;
+}
+
 /* Resizing of landing page for larger screens - currently not working
 
 @media only screen and (max-width: 600px) and (min-width:400px){
