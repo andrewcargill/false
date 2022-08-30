@@ -177,6 +177,7 @@ nav li {
 }
 
 #mens-clothing-text {
+    position: relative;
     border: 3px solid green;
     padding: 10px;
 }
@@ -184,6 +185,14 @@ nav li {
 #mens-clothing-image {
     border: 3px solid blue;
     padding: 10px;
+}
+
+#mens-clothing-text h2 {
+    position: absolute;
+    top: -55px;
+    display: block;
+    color: black;
+
 }
 
 
