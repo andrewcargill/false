@@ -9,6 +9,10 @@ html, body {
     height: 100%;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /* element styling*/
 
 h2, p, label, input{
@@ -238,6 +242,7 @@ max-width: 430px;
 
 #sign-up-container {
     background-color: #e31c1c;
+    height: 100vh;
 }
 
 #sign-up-container h2 {
