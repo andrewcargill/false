@@ -153,38 +153,40 @@ nav a:hover {
 /* Mens clothing page */
 
 #mens-clothing-background {
-    background-color: grey;
+    background-color: pink;
+    height: 80vh;
+}
+
+#mens-clothing-background h2 {
+    color: black;
+    background-color: #e31c1c;
+    margin: 0;
+}
+#mens-clothing-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-start;
     width: 100%;
-    min-height: 100%;
+    border: 2px solid pink; /* Remember to remove this line! */
 }
 
 #mens-clothing-text {
-    position: relative;
-    border: 3px solid green;
-    padding: 10px;
-}
-
-#mens-clothing-text h2 {
-    position: absolute;
-    top: -55px;
-    display: block;
-    color: black;
 
 }
 
 #mens-clothing-image {
-    border: 3px solid blue;
-    padding: 10px;
+ 
 }
 
 #mens-clothing-image img {
-    width: 30%;
-    max-height: 479px;
-    max-width: 561px;
+
 }
 
 .collection-logo img {
     width: 30%;
+    border: 3px solid green;
     max-height: 137px;
     max-width: 519px;
 }
@@ -272,7 +274,7 @@ max-width: 430px;
 }   
 
     #mens-clothing-image img {
-        width: 100%;
+        width: 80%;
     }
 
     #mens-clothing-image {
