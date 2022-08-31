@@ -223,7 +223,7 @@ nav li {
 /* Reailers section*/
 
 #retailers {
-    background-color: red;
+    background-color: #e31c1c;
     width: 100%;
     min-height: 100%;
 }
@@ -253,6 +253,21 @@ max-width: 430px;
 
 .input-container label {
     font-size: 13px;
+    font-weight: 500;
+}
+
+#submit {
+    background-color: #fff;
+    margin-top: 30px; 
+    padding: 18px 0 18px 30px; 
+    width: 150px;
+}
+
+#submit input {
+    border: none;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size: 30px;
     font-weight: 500;
 }
 
