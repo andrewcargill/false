@@ -137,8 +137,10 @@ nav a:hover {
 
 #landing-page-logo {
     margin-left: 15px;
-    width: 280px;
+    max-width: 280px;
 }
+
+
 
 /* Red spacer and classes */
 
@@ -148,7 +150,7 @@ nav a:hover {
     min-height: 200px;
 }
 
-/* Mens clothing page*/
+/* Mens clothing page */
 
 #mens-clothing-background {
     background-color: grey;
@@ -186,6 +188,8 @@ nav a:hover {
     max-height: 137px;
     max-width: 519px;
 }
+
+
 
 /* Reailers section*/
 
@@ -249,6 +253,8 @@ max-width: 430px;
     background-color: black;
 }
 
+
+
 @media only screen and (max-width: 600px) and (min-width:100px){
 /* Image Resizing */
 #landing-page-whitebox {
@@ -260,6 +266,10 @@ max-width: 430px;
     width: auto;
     height: 65%;
 }
+#landing-page-logo {
+    align-self: center;
+    width: 80%;
+}   
 
     #mens-clothing-image img {
         width: 100%;
