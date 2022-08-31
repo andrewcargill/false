@@ -154,7 +154,7 @@ nav a:hover {
 
 #mens-clothing-background {
     background-color: pink;
-    height: 80vh;
+    height: 90vh;
 }
 
 #mens-clothing-background h2 {
@@ -173,14 +173,16 @@ nav a:hover {
 }
 
 #mens-clothing-text {
-
+    width: 30%;
 }
 
 #mens-clothing-image {
- 
+    margin-top: 15vh;
 }
 
 #mens-clothing-image img {
+    width: 481px;
+    height: 421px;
 
 }
 
