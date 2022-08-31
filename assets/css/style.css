@@ -15,10 +15,14 @@ html {
 
 /* element styling*/
 
-h2, p, label, input{
+h2, p, label, input, li {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
 }   
+
+li {
+    list-style-type: none;
+}
 
 h2 {
     font-weight: 700;
@@ -209,6 +213,23 @@ nav a:hover {
     background-color: #e31c1c;
     width: 100%;
     min-height: 100%;
+}
+
+#retailers img {
+    margin-top: 5%;
+    align-self: center;
+    width: 80%;
+}
+
+#retailer-text h2 {
+    display: inline-block;
+    text-align: left;
+    color: #e31c1c;
+    background-color: #fff;
+    margin-top: 30px;
+    width: 80%; 
+    padding: 18px 0 18px 30px;
+
 }
 
 #rose-image img {
