@@ -154,7 +154,8 @@ nav a:hover {
 
 #mens-clothing-background {
     position: relative;
-    height: 90vh;
+    height: auto;
+    padding-bottom: 15vw;
 }
 
 #mens-clothing-background h2 {
@@ -167,6 +168,7 @@ nav a:hover {
     justify-content: space-between;
     align-content: flex-start;
     width: 100%;
+    height: auto;
 }
 
 #mens-clothing-text {
@@ -187,9 +189,6 @@ nav a:hover {
 #mens-clothing-image img {
     width: 480px;
     height: 410px;
-}
-
-#mens-collections-logo {
 }
 
 .collection-logo img {
@@ -288,7 +287,39 @@ max-width: 430px;
         width: 80%;
     }
 
-    #mens-clothing-image {
+/* mens clothing */
+
+
+
+#mens-clothing-background h2 {
+    font-size: large;
+}
+
+#mens-clothing-text {
+    margin-left: 10vw;
+    margin-top: 10vh;
+    width: 80%;
+}
+
+#mens-clothing-text p {
+    font-size: medium;
+}
+
+#mens-clothing-image {
+    background-color: aqua;
+    margin: 0;
+
+/*    margin-top: 20vh;
+    margin-right: 20vh;*/
+}
+
+#mens-clothing-image img {
+    margin: 0;
+    display: block;
+}
+
+/*  orignal code before flex
+#mens-clothing-image {
         position: relative;
         border: 0;
         padding: 0;
@@ -297,7 +328,7 @@ max-width: 430px;
     .collection-logo img {
         width: 80%;  
       }
-    
+*/    
     #rose-image img {
         width: 80%;
         }
