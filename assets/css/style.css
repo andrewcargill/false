@@ -234,6 +234,17 @@ max-height: 568px;
 max-width: 430px;
 }
 
+/* Sign Up section */
+
+#sign-up-container {
+    background-color: #e31c1c;
+}
+
+.input-container {
+    background-color: #fff;
+    margin-top: 30px;
+    width: 90%;
+}
 
 /* Resizing of landing page for larger screens - currently not working
 
