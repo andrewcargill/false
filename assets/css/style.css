@@ -132,19 +132,20 @@ nav li {
 #landing-page-whitebox {
     position: absolute;
     bottom: 0;
-    left: 10%;
-    right: 10%;
+    left: 14%;
+    right: 30%;
     background-color: #fff;
     width: auto;
-    height: 60%;
+    height: 65%;
 }
 
 #designer-clothing-text {
     position: absolute;
-    top: -50px;
+    top: -53px;
     display: inline-block;
+    margin-left: 20px;
     color: #fff;
-    font-size: 18px;
+    font-size: 24px;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
 }
@@ -168,6 +169,7 @@ nav li {
 }
 
 #landing-page-logo {
+    margin-left: 15px;
     width: 280px;
 }
 
@@ -251,6 +253,16 @@ max-width: 430px;
 */
 @media only screen and (max-width: 600px) and (min-width:100px){
 /* Image Resizing */
+#landing-page-whitebox {
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    background-color: #fff;
+    width: auto;
+    height: 65%;
+}
+
     #mens-clothing-image img {
         width: 100%;
     }
