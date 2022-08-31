@@ -153,7 +153,6 @@ nav a:hover {
 /* Mens clothing page */
 
 #mens-clothing-background {
-    background-color: pink;
     height: 90vh;
 }
 
@@ -169,7 +168,6 @@ nav a:hover {
     justify-content: space-between;
     align-content: flex-start;
     width: 100%;
-    border: 2px solid pink; /* Remember to remove this line! */
 }
 
 #mens-clothing-text {
@@ -177,7 +175,8 @@ nav a:hover {
 }
 
 #mens-clothing-image {
-    margin-top: 15vh;
+    margin-top: 20vh;
+    margin-right: 20vh;
 }
 
 #mens-clothing-image img {
