@@ -213,11 +213,13 @@ nav a:hover {
 
 #retailers img {
     display: block;
-    margin: 0 20vw 10vw 20vw;
+    margin: 0 0 0 10vw;
+    padding-right: 50%;
     background-color: aqua;
     margin-top: 5%;
     align-self: center;
-    width: 60vw;
+    width: auto;
+    max-width: 890px;
 }
 
 #retailers h2 {
