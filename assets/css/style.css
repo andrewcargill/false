@@ -303,54 +303,49 @@ figcaption {
 #about-background {
     position: relative;
     height: auto;
-    padding-bottom: 5vw;
-    background-color: aqua;
+    padding-bottom: 0;
 }
 
 #about-text {
     order: 2;
     width: 100%;
     margin: 5vw 5vw 5vw 5vw;
-    background-color: lightblue;
 }
-
 
 #about-background h2 {
     font-size: large;
     text-align: center;
 }
 
-
 #about-text p {
     font-size: medium;
     text-align: justify;
 }
 
-
-
 #about-image {
     order: 1;
     width: 100%;
-    margin-top: 20vh;
+    margin-top: 10vh;
     margin-right: 0;
     margin-left: 0;
-    background-color: green;
 }
 
 #about-image-container {
     width: 100%;
-    background-color: pink;
 }
 
 #about-image img {
     height: auto;
+    width: 50px; /* remove when styling */
     max-width: 400px;
 }
+
 .collection-logo img {
-    position: relative;
-    bottom: 0;
-    width: 30%;
-    margin-left: 5vw;
+    position: static;
+    margin-bottom: 20vw;
+    width: 80%;
+    margin-left: 4vw;
+    margin-top: 5vw;
     max-height: 137px;
     max-width: 519px;
 }
