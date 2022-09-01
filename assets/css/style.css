@@ -210,7 +210,6 @@ nav a:hover {
     display: block;
     margin: 0 0 0 10vw;
     padding-right: 50%;
-    background-color: aqua;
     margin-top: 5%;
     align-self: center;
     width: auto;
@@ -222,18 +221,24 @@ nav a:hover {
     text-align: left;
     color: #e31c1c;
     background-color: #fff;
-    margin-top: 30px;
+    margin-top: 10vh;
     width: 80%; 
     padding: 18px 0 18px 10vw;
 }
 
+#retailers_address {
+    padding-bottom: 15vh;
+}
+
 #retailers_address ul{
+    padding-top: 5vh;
     padding-left: 10vw;
 }
 #rose-image img {
-width: 20px;
-max-height: 568px;
-max-width: 430px;
+    padding: 5vh 15vh 0 0;
+    width: 350px;
+    /*max-height: 568px;
+    max-width: 430px;*/
 }
 
 /* Sign Up section */
