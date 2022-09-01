@@ -401,6 +401,54 @@ p {
     max-width: 519px;
 }
 
+/* Sign Up - Stardard styling will work for 820px devices*/ 
+
+#sign-up-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: space-between;
+    width: 80%p;
+    padding-top: 5vh;
+    height: auto;
+    padding-bottom: 5vh;
+    background-color: #e31c1c;
+}
+
+#sign-up-text {
+    order: 1;
+    padding-left: 5vw;
+    width: 90%;
+}
+
+#sign-up-container h2 {
+    color: white;
+    margin: 0;
+}
+
+#sign-up-container p {
+    color: white;
+}
+
+#white-triangle {
+    display: none;
+    order: -1;
+    background-color: pink;
+}
+
+#white-triangle img {
+   /* height: 60vh;
+    max-height: 500px;*/
+    height: 10px;
+}
+
+#form-container {
+    order: 2;
+    padding-top: 3vh;
+    padding-left: 5vw;
+}
+
 /* Reailers Section */
 
 #retailers {
@@ -464,53 +512,7 @@ p {
 
 
 
-/* Sign Up - Stardard styling will work for 820px devices*/ 
 
-#sign-up-container {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-content: space-between;
-    width: 80%p;
-    padding-top: 5vh;
-    height: auto;
-    padding-bottom: 5vh;
-    background-color: #e31c1c;
-}
-
-#sign-up-text {
-    order: 1;
-    padding-left: 5vw;
-    width: 90%;
-}
-
-#sign-up-container h2 {
-    color: white;
-    margin: 0;
-}
-
-#sign-up-container p {
-    color: white;
-}
-
-#white-triangle {
-    display: none;
-    order: -1;
-    background-color: pink;
-}
-
-#white-triangle img {
-   /* height: 60vh;
-    max-height: 500px;*/
-    height: 10px;
-}
-
-#form-container {
-    order: 2;
-    padding-top: 3vh;
-    padding-left: 5vw;
-}
 
 /* Retailers */
  
@@ -524,7 +526,7 @@ p {
     figcaption {
         display: none;
     }
-
+/* Landing page */
     #landing-page-background {
         background-color: blue;
 
@@ -601,6 +603,54 @@ p {
     max-width: 519px;
 }
 
+/* Sign Up - Stardard styling will work for 820px devices*/ 
+
+#sign-up-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: space-between;
+    width: 80%p;
+    padding-top: 5vh;
+    height: auto;
+    padding-bottom: 5vh;
+    background-color: #e31c1c;
+}
+
+#sign-up-text {
+    order: 1;
+    padding-left: 5vw;
+    width: 90%;
+}
+
+#sign-up-container h2 {
+    color: white;
+    margin: 0;
+}
+
+#sign-up-container p {
+    color: white;
+}
+
+#white-triangle {
+    display: none;
+    order: -1;
+    background-color: pink;
+}
+
+#white-triangle img {
+   /* height: 60vh;
+    max-height: 500px;*/
+    height: 10px;
+}
+
+#form-container {
+    order: 2;
+    padding-top: 3vh;
+    padding-left: 5vw;
+}
+
 /* Reailers Section */
 
 #retailers {
@@ -660,53 +710,7 @@ p {
     max-width: 430px;*/
 }
 
-/* Sign Up - Stardard styling will work for 820px devices*/ 
 
-#sign-up-container {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-content: space-between;
-    width: 80%p;
-    padding-top: 5vh;
-    height: auto;
-    padding-bottom: 5vh;
-    background-color: #e31c1c;
-}
-
-#sign-up-text {
-    order: 1;
-    padding-left: 5vw;
-    width: 90%;
-}
-
-#sign-up-container h2 {
-    color: white;
-    margin: 0;
-}
-
-#sign-up-container p {
-    color: white;
-}
-
-#white-triangle {
-    display: none;
-    order: -1;
-    background-color: pink;
-}
-
-#white-triangle img {
-   /* height: 60vh;
-    max-height: 500px;*/
-    height: 10px;
-}
-
-#form-container {
-    order: 2;
-    padding-top: 3vh;
-    padding-left: 5vw;
-}
 
 /* Retailers */
  
