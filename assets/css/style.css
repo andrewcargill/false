@@ -206,10 +206,10 @@ nav a:hover {
     align-content: flex-start;
 }
 
-#retailers img {
-    display: block;
+#retailers > img {
+    display: inline-block;
     margin: 0 0 0 10vw;
-    padding-right: 50%;
+    padding-right: 25%;  /*problem with large screen resizing*/
     margin-top: 5%;
     align-self: center;
     width: auto;
@@ -235,7 +235,7 @@ nav a:hover {
     padding-left: 10vw;
 }
 #rose-image img {
-    padding: 5vh 15vh 0 0;
+    padding: 5vh 15vh 0 0 0;
     width: 350px;
     /*max-height: 568px;
     max-width: 430px;*/
@@ -251,17 +251,15 @@ nav a:hover {
     align-content: space-between;
     width: 100%;
     padding-top: 5vh;
-    height: 50vh;
+    height: 70vh;
     padding-bottom: 5vh;
     background-color: #e31c1c;
 }
 
-
-
 #sign-up-text {
     order: 1;
     padding-left: 5vw;
-    width: 50%;  
+    width: 50%;
 }
 
 #sign-up-container h2 {
@@ -278,7 +276,7 @@ nav a:hover {
 }
 
 #white-triangle img {
-    height: 60vh;
+    height: 40vw;
     max-height: 700px;
 }
 
