@@ -304,12 +304,14 @@ figcaption {
     position: relative;
     height: auto;
     padding-bottom: 5vw;
+    background-color: aqua;
 }
 
 #about-text {
     order: 2;
     width: 100%;
     margin: 5vw 5vw 5vw 5vw;
+    background-color: lightblue;
 }
 
 
@@ -325,18 +327,24 @@ figcaption {
 }
 
 
+
 #about-image {
     order: 1;
+    width: 100%;
     margin-top: 20vh;
-    margin-right: 15vh;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: green;
+}
+
+#about-image-container {
+    width: 100%;
+    background-color: pink;
 }
 
 #about-image img {
-    width: 40vw;
     height: auto;
     max-width: 400px;
-    margin-top: 8vh;
-    margin-left: 40vw;
 }
 .collection-logo img {
     position: relative;
@@ -346,11 +354,7 @@ figcaption {
     max-height: 137px;
     max-width: 519px;
 }
-/*
-    .collection-logo img {
-        width: 80%;  
-      }
-*/    
+ 
     #rose-image img {
         width: 80%;
         }
