@@ -194,6 +194,17 @@ nav a:hover {
     max-width: 519px;
 }
 
+/*clothes Section */
+
+#clothes_container {
+    background-color: #fff;
+    height: 100vh;
+    width: 100%;
+}
+#clothes_container img {
+    width: 100%;
+}
+
 /* Reailers section*/
 
 #retailers {
@@ -454,6 +465,10 @@ p {
 #clothes_container {
     background-color: #fff;
     height: 100vh;
+    width: 100%;
+}
+#clothes_container img {
+    width: 100%;
 }
 
 /* Reailers Section */
