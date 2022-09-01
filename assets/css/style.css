@@ -29,7 +29,7 @@ h2 {
 }
 
 p {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 figcaption {
@@ -39,10 +39,6 @@ figcaption {
     font-size: 12px;
     text-align: right;
 }
-
-
-
-
 
 body {
     border: 0;
@@ -143,8 +139,6 @@ nav a:hover {
     max-width: 280px;
 }
 
-
-
 /* Red spacer and classes */
 
 .red-spacer {
@@ -204,8 +198,6 @@ nav a:hover {
     max-width: 519px;
 }
 
-
-
 /* Reailers section*/
 
 #retailers {
@@ -228,7 +220,6 @@ nav a:hover {
     margin-top: 30px;
     width: 80%; 
     padding: 18px 0 18px 30px;
-
 }
 
 #rose-image img {
@@ -286,7 +277,6 @@ max-width: 430px;
 }
 
 
-
 @media only screen and (max-width: 1330px) and (min-width:280px){
 /* Image Resizing */
 
@@ -308,8 +298,6 @@ figcaption {
     width: 80%;
 }   
 
- 
-
 /* mens clothing */
 
 #mens-clothing-background {
@@ -326,6 +314,7 @@ figcaption {
     order: 2;
     margin-left: 5vw;
     margin-top: 10vh;
+    margin-bottom: 5vw;
     width: 80%;
 }
 
@@ -347,7 +336,14 @@ figcaption {
     margin-top: 8vh;
     margin-left: 40vw;
 }
-
+.collection-logo img {
+    position: relative;
+    bottom: 0;
+    width: 30%;
+    margin-left: 5vw;
+    max-height: 137px;
+    max-width: 519px;
+}
 /*
     .collection-logo img {
         width: 80%;  
