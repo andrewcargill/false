@@ -304,9 +304,7 @@ max-width: 430px;
     width: 80%;
 }   
 
-    #mens-clothing-image img {
-        width: 80%;
-    }
+ 
 
 /* mens clothing */
 
@@ -333,27 +331,32 @@ max-width: 430px;
 
 #mens-clothing-image {
     order: 1;
-    background-color: aqua;
     margin: 0;
+    width: 100%;
 
 /*    margin-top: 20vh;
     margin-right: 20vh;*/
 }
 
+
 #mens-clothing-image img {
     margin: 0;
-    display: block;
+    width: 50vw;
+    height: auto;
+    max-width: 400px;
+    margin-top: 10vh;
+    margin-left: 40vw;
 }
 
 .collection-logo img {
     /*position: absolute;
-    bottom: 0;*/
+    bottom: 0;
     width: 70%;
     margin-bottom: 5vh;
     margin-left: 5vw;
     max-height: 137px;
     max-width: 519px;
-}
+}*/
 
 
 /*  orignal code before flex
