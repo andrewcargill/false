@@ -306,20 +306,22 @@ figcaption {
     padding-bottom: 5vw;
 }
 
-#about-background h2 {
-    font-size: large;
-}
-
 #about-text {
     order: 2;
-    margin-left: 5vw;
-    margin-top: 10vh;
-    margin-bottom: 5vw;
-    width: 80%;
+    width: 100%;
+    margin: 5vw 5vw 5vw 5vw;
 }
+
+
+#about-background h2 {
+    font-size: large;
+    text-align: center;
+}
+
 
 #about-text p {
     font-size: medium;
+    text-align: justify;
 }
 
 
