@@ -209,7 +209,7 @@ nav a:hover {
 #retailers > img {
     display: inline-block;
     margin: 0 0 0 10vw;
-    padding-right: 25%;  /*problem with large screen resizing*/
+    padding-right: 40%;  /*problem with large screen resizing*/
     margin-top: 5%;
     align-self: center;
     width: auto;
@@ -235,7 +235,7 @@ nav a:hover {
     padding-left: 10vw;
 }
 #rose-image img {
-    padding: 5vh 15vh 0 0 0;
+    padding: 8vh 15vh 0 0 ;
     width: 350px;
     /*max-height: 568px;
     max-width: 430px;*/
