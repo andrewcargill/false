@@ -237,20 +237,24 @@ max-width: 430px;
     justify-content: flex-start;
     align-content: flex-start;
     width: 100%;
-    height: 500px;
+    height: 700px;
     padding-top: 5vh;
-    padding-left: 5vw;
+/*    padding-left: 5vw;*/
     background-color: green;
+}
+
+
+
+#sign-up-text {
+    padding-left: 5vw;
+    width: 50%;
+    order: 1;
+    background-color: gray;
 }
 
 #sign-up-container h2 {
     color: white;
     margin: 0;
-}
-
-#sign-up-text {
-    order: 1;
-    background-color: gray;
 }
 
 #sign-up-container p {
@@ -259,16 +263,16 @@ max-width: 430px;
 
 #white-triangle {
     order: 3;
-    width: 40%;
-    height: 100%;
     background-color: pink;
 }
 
 #white-triangle img {
-    height: inherit;
+    height: 10px;
 }
 
 #form-container {
+    padding-top: 3vh;
+    padding-left: 5vw;
     order: 2;
     background-color: aqua;
     width: 60%;
