@@ -22,14 +22,16 @@ h2, p, label, input, li {
 
 li {
     list-style-type: none;
+    font-size: x-large;
 }
 
 h2 {
     font-weight: 700;
+    font-size: xx-large;
 }
 
 p {
-    font-size: 16px;
+    font-size: x-large;
 }
 
 figcaption {
@@ -155,9 +157,6 @@ nav a:hover {
     padding-bottom: 15vw;
 }
 
-#about-background h2 {
-    font-size: xx-large;
-}
 #about-flex {
     display: flex;
     flex-direction: row;
@@ -172,10 +171,6 @@ nav a:hover {
     margin-left: 10vw;
     margin-top: 10vh;
     width: 30%;
-}
-
-#about-text p {
-    font-size: x-large;
 }
 
 #about-image {
@@ -229,9 +224,12 @@ nav a:hover {
     background-color: #fff;
     margin-top: 30px;
     width: 80%; 
-    padding: 18px 0 18px 30px;
+    padding: 18px 0 18px 10vw;
 }
 
+#retailers_address ul{
+    padding-left: 10vw;
+}
 #rose-image img {
 width: 20px;
 max-height: 568px;
