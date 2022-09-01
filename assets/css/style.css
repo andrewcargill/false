@@ -147,18 +147,18 @@ nav a:hover {
     min-height: 200px;
 }
 
-/* Mens clothing page */
+/* About page */
 
-#mens-clothing-background {
+#about-background {
     position: relative;
     height: auto;
     padding-bottom: 15vw;
 }
 
-#mens-clothing-background h2 {
+#about-background h2 {
     font-size: xx-large;
 }
-#mens-clothing-flex {
+#about-flex {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -168,22 +168,22 @@ nav a:hover {
     height: auto;
 }
 
-#mens-clothing-text {
+#about-text {
     margin-left: 10vw;
     margin-top: 10vh;
     width: 30%;
 }
 
-#mens-clothing-text p {
+#about-text p {
     font-size: x-large;
 }
 
-#mens-clothing-image {
+#about-image {
     margin-top: 20vh;
     margin-right: 15vh;
 }
 
-#mens-clothing-image img {
+#about-image img {
     width: 480px;
     height: 410px;
 }
@@ -298,19 +298,19 @@ figcaption {
     width: 80%;
 }   
 
-/* mens clothing */
+/* About Us */
 
-#mens-clothing-background {
+#about-background {
     position: relative;
     height: auto;
     padding-bottom: 5vw;
 }
 
-#mens-clothing-background h2 {
+#about-background h2 {
     font-size: large;
 }
 
-#mens-clothing-text {
+#about-text {
     order: 2;
     margin-left: 5vw;
     margin-top: 10vh;
@@ -318,18 +318,18 @@ figcaption {
     width: 80%;
 }
 
-#mens-clothing-text p {
+#about-text p {
     font-size: medium;
 }
 
 
-#mens-clothing-image {
+#about-image {
     order: 1;
     margin-top: 20vh;
     margin-right: 15vh;
 }
 
-#mens-clothing-image img {
+#about-image img {
     width: 40vw;
     height: auto;
     max-width: 400px;
