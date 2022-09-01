@@ -36,9 +36,8 @@ figcaption {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 700;
     color: black;
-    background-color: pink;
     font-size: 12px;
-    margin-right: 0;
+    text-align: right;
 }
 
 
@@ -290,6 +289,11 @@ max-width: 430px;
 
 @media only screen and (max-width: 1330px) and (min-width:280px){
 /* Image Resizing */
+
+figcaption {
+    display: none;
+}
+
 #landing-page-whitebox {
     position: absolute;
     bottom: 0;
@@ -329,43 +333,22 @@ max-width: 430px;
     font-size: medium;
 }
 
+
 #mens-clothing-image {
     order: 1;
-    margin: 0;
-    width: 100%;
-
-/*    margin-top: 20vh;
-    margin-right: 20vh;*/
+    margin-top: 20vh;
+    margin-right: 15vh;
 }
 
-
 #mens-clothing-image img {
-    margin: 0;
-    width: 50vw;
+    width: 40vw;
     height: auto;
     max-width: 400px;
-    margin-top: 10vh;
+    margin-top: 8vh;
     margin-left: 40vw;
 }
 
-.collection-logo img {
-    /*position: absolute;
-    bottom: 0;
-    width: 70%;
-    margin-bottom: 5vh;
-    margin-left: 5vw;
-    max-height: 137px;
-    max-width: 519px;
-}*/
-
-
-/*  orignal code before flex
-#mens-clothing-image {
-        position: relative;
-        border: 0;
-        padding: 0;
-    }
-
+/*
     .collection-logo img {
         width: 80%;  
       }
