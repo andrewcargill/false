@@ -223,7 +223,7 @@ nav a:hover {
 }
 
 #rose-image img {
-width: 30%;
+width: 20px;
 max-height: 568px;
 max-width: 430px;
 }
@@ -231,22 +231,55 @@ max-width: 430px;
 /* Sign Up section */
 
 #sign-up-container {
-    background-color: #e31c1c;
-    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    width: 100%;
+    height: 500px;
+    padding-top: 5vh;
+    padding-left: 5vw;
+    background-color: green;
 }
 
 #sign-up-container h2 {
+    color: white;
     margin: 0;
 }
 
-#white-triangle img {
-    height: 100px;
+#sign-up-text {
+    order: 1;
+    background-color: gray;
 }
+
+#sign-up-container p {
+    color: white;
+}
+
+#white-triangle {
+    order: 3;
+    width: 40%;
+    height: 100%;
+    background-color: pink;
+}
+
+#white-triangle img {
+    height: inherit;
+}
+
+#form-container {
+    order: 2;
+    background-color: aqua;
+    width: 60%;
+}
+
+/*styling of input elements */
 
 .input-container {
     background-color: #fff;
     margin-top: 30px;
-    width: 80%; 
+    width: 30vw; 
     padding: 18px 0 18px 30px;
 }
 
