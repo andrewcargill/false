@@ -713,7 +713,7 @@ footer {
 /* Reailers Section */
 
 #retailers {
-    background-color: #e31c1c;
+    background-color: pink;
     width: 100%;
     min-height: 100%;
     display: flex;
@@ -723,15 +723,13 @@ footer {
     align-content: flex-start;
 }
 
+
 #retailers-false-logo {
     order: 2;
     display: inline-block;
-    margin: 0 0 0 10vw;
+    margin: 0 0 0 0;
     padding-right: 0;
-    margin-top: 5%;
-    align-self: center;
-    width: 80%;
-    max-width: 890px;
+    margin-top: 0;
 } 
 
 #retailers_text {
@@ -740,21 +738,18 @@ footer {
 
 #retailers_address {
     padding-bottom: 15vh;
+    padding-left: 0;
 }
 
 #retailers h2 {
-    display: inline-block;
-    text-align: left;
-    color: #e31c1c;
-    background-color: #fff;
-    margin-top: 10vh;
-    width: 80%; 
+    margin-top: 0;
     padding: 18px 0 18px 10vw;
 }
 
 #retailers_address ul {
-    padding-top: 5vh;
+    padding-top: 0;
     padding-left: 10vw;
+    margin-top: 0;
 }
 
 #retailers_address li {
@@ -766,21 +761,16 @@ footer {
     width: 100%;
 }
 
-#rose-image img {
-    padding: 8vh 0 0 0 ;
-    width: 350px;
-    max-width: 400px;
-    /*max-height: 568px;
-    max-width: 430px;*/
+#rose-image {
+    margin: 0;
 }
 
+#rose-image img {
+    padding: 0;
+    width: 350px;
+    max-width: 400px;
+}
 
-
-/* Retailers */
- 
-    #rose-image img {
-        width: 80%;
-        }
 }
 
 
