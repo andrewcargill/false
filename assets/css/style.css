@@ -216,6 +216,7 @@ nav a:hover {
 #sign-up-text {
     order: 1;
     padding-left: 10vw;
+    padding-top: 5vh;
     width: 50%;
 }
 
@@ -233,7 +234,7 @@ nav a:hover {
 }
 
 #white-triangle img {
-    height: 40vw;
+    height: 70vh;
     max-height: 700px;
 }
 
