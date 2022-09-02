@@ -152,6 +152,11 @@ nav a:hover {
 
 /* About page */
 
+#about-top-images {
+    border: 2px solid black;
+    height: 50px;
+}
+
 #about-background {
     position: relative;
     height: auto;
@@ -204,6 +209,7 @@ nav a:hover {
 #clothes_container img {
     width: 100%;
 }
+
 
 /* Reailers section*/
 
