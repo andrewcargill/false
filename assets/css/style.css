@@ -454,12 +454,13 @@ p {
 }
 
 #sign-up-text {
-    order: 1;
-    padding-left: 5vw;
-    width: 90%;
+    width: 80%;
+    margin: 5vw 8vw;
+    padding: 0;
 }
 
 #sign-up-container h2 {
+    text-align: left;
     color: white;
     margin: 0;
 }
@@ -481,9 +482,7 @@ p {
 }
 
 #form-container {
-    order: 2;
-    padding-top: 3vh;
-    padding-left: 5vw;
+    padding-left: 8vw;
 }
 
 /*clothes Section */
