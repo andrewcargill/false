@@ -184,11 +184,6 @@ nav a:hover {
     margin-right: 15vh;
 }
 
-#about-image img {
-    width: 480px;
-    height: 410px;
-}
-
 .collection-logo img {
     position: absolute;
     bottom: 0;
@@ -197,6 +192,10 @@ nav a:hover {
     margin-left: 10vw;
     max-height: 137px;
     max-width: 519px;
+}
+
+#about-image img {
+    max-width: 420px;
 }
 
 /* Sign Up section */
@@ -389,7 +388,7 @@ figcaption {
 #about-text {
     order: 2;
     width: 100%;
-    margin: 5vw 5vw 5vw 5vw;
+    margin: 5vw 8vw;
 }
 
 h2 {
@@ -417,14 +416,14 @@ p {
 #about-image img {
     height: auto;
     width: 100%;
+    max-width: none;
 }
 
 .collection-logo img {
     position: static;
     margin-bottom: 20vw;
-    width: 90%;
-    margin-left: 4vw;
-    margin-top: 5vw;
+    width: 80%;
+    margin: 5vw 5vw 3vw 8vw;
     max-height: 137px;
     max-width: 519px;
 }
@@ -590,7 +589,7 @@ footer {
     }  
 
     #about-background {
-        background-color: #fff;
+        background-color: pink;
      }
 
 
@@ -633,6 +632,7 @@ p {
 #about-image img {
     height: auto;
     width: 100%; 
+    max-width: none;
 }
 
 .collection-logo img {
