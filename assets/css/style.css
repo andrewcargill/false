@@ -311,7 +311,7 @@ nav a:hover {
 
 #retailers-false-logo img {
     width: 40vw;
-    max-width: 50%;
+    max-width: 600px;
     display: inline-block;
     margin: 0 0 0 10vw;
 }
