@@ -68,7 +68,7 @@ nav li {
     margin-left: 2%;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 /* navigation links styling*/
@@ -369,7 +369,7 @@ figcaption {
     bottom: 0;
     left: 10%;
     right: 10%;
-    background-color:pink;
+    background-color:#fff;
     width: auto;
     height: 65%;
 }
@@ -416,8 +416,7 @@ p {
 
 #about-image img {
     height: auto;
-    width: 50px; /* remove when styling */
-    max-width: 400px;
+    width: 100%;
 }
 
 .collection-logo img {
@@ -572,7 +571,7 @@ footer {
     }
 /* Landing page */
     #landing-page-background {
-        background-color: blue;
+        background-color: #e31c1c;
 
      }
     
@@ -591,7 +590,7 @@ footer {
     }  
 
     #about-background {
-        background-color: blue;
+        background-color: #fff;
      }
 
 
