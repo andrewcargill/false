@@ -305,15 +305,27 @@ nav a:hover {
     align-content: flex-start;
 }
 
+#retailers-false-logo {
+    margin-top: 10vh;
+    width: 100vw;
+}
+
+#retailers-false-logo img {
+    max-width: 50%;
+    display: inline-block;
+    margin: 0 0 0 10vw;
+}
+/*
 #retailers > img {
     display: inline-block;
     margin: 0 0 0 10vw;
-    padding-right: 20%;  /*problem with large screen resizing*/
+    padding-right: 20%;
     margin-top: 5%;
     align-self: center;
     width: auto;
     max-width: 890px;
-}
+} */
+
 
 
 #retailers_address {
@@ -490,7 +502,7 @@ p {
     align-content: flex-start;
 }
 
-#retailers > img {
+#retailers-false-logo {
     order: 2;
     display: inline-block;
     margin: 0 0 0 10vw;
@@ -499,7 +511,7 @@ p {
     align-self: center;
     width: 80%;
     max-width: 890px;
-}
+} 
 
 #retailers_text {
     order: 3;
