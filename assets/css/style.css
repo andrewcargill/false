@@ -310,6 +310,7 @@ nav a:hover {
 }
 
 #retailers-false-logo img {
+    width: 40vw;
     max-width: 50%;
     display: inline-block;
     margin: 0 0 0 10vw;
@@ -329,6 +330,7 @@ nav a:hover {
 
 #retailers_address {
     padding-bottom: 15vh;
+    padding-left: 10vw;
 }
 
 #retailers h2 {
@@ -336,14 +338,16 @@ nav a:hover {
     text-align: left;
     color: #e31c1c;
     background-color: #fff;
-    margin-top: 10vh;
     width: 80%; 
-    padding: 18px 0 18px 10vw;
+    padding: 18px 0 8px 10vw;
+    margin-top: 5vh;
+    margin-bottom: 0;
 }
 
 #retailers_address ul{
-    padding-top: 5vh;
-    padding-left: 10vw;
+    margin: 0;
+    margin-top: 10vh;
+    padding: 0;
 }
 #rose-image img {
     padding: 8vh 15vh 0 0 ;
@@ -608,11 +612,6 @@ footer {
         align-self: center;
         width: 80%;
     }  
-
-    #about-background {
-        background-color: pink;
-     }
-
 
 /* About Us */
 
