@@ -376,6 +376,17 @@ figcaption {
     width: 80%;
 }   
 
+#image-is-everything-text {
+    top: 40%;
+}
+
+
+.red-spacer {
+    background-color: #e31c1c;
+    width: 100%;
+    min-height: 10vh;
+}
+
 /* About Us */
 
 #about-background {
