@@ -275,7 +275,6 @@ nav a:hover {
 }
 
 #submit input:hover {
-    border: 1px solid white;
     color: #fff;
     background-color: black;
 }
@@ -568,6 +567,17 @@ footer {
     figcaption {
         display: none;
     }
+
+    h2 {
+        font-size: x-large;
+        text-align: center;
+    }
+    
+    p {
+        font-size: large;
+        text-align: justify;
+    }
+
 /* Landing page */
     #landing-page-background {
         background-color: #e31c1c;
@@ -604,17 +614,7 @@ footer {
 #about-text {
     order: 2;
     width: 100%;
-    margin: 5vw 5vw 5vw 5vw;
-}
-
-h2 {
-    font-size: large;
-    text-align: center;
-}
-
-p {
-    font-size: medium;
-    text-align: justify;
+    margin: 5vw 8vw;
 }
 
 #about-image {
@@ -638,11 +638,9 @@ p {
 .collection-logo img {
     position: static;
     margin-bottom: 20vw;
-    width: 90%;
-    margin-left: 4vw;
-    margin-top: 5vw;
-    max-height: 137px;
-    max-width: 519px;
+    width: 80%;
+    margin: 5vw 5vw 3vw 8vw;
+    max-width: 350px;
 }
 
 /* Sign Up - Stardard styling will work for 820px devices*/ 
@@ -691,6 +689,10 @@ p {
     order: 2;
     padding-top: 3vh;
     padding-left: 5vw;
+}
+
+#input-container label {
+    font-size: large;
 }
 
 /*Clothes Section */
