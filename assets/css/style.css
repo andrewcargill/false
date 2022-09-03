@@ -281,7 +281,7 @@ nav a:hover {
     height: 100vh;
     width: 100%;
 }
-#clothes_container img {
+#launch-section-container img {
     width: 100%;
 }
 
@@ -485,16 +485,9 @@ p {
     padding-left: 8vw;
 }
 
-/*clothes Section */
+/*Launch Section */
 
-#clothes_container {
-    background-color: #fff;
-    height: 100vh;
-    width: 100%;
-}
-#clothes_container img {
-    width: 100%;
-}
+
 
 /* Reailers Section */
 
