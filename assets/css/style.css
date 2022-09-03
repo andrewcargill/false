@@ -317,6 +317,22 @@ nav a:hover {
 }
 
 
+#launch-section-collection-logo {
+    display: inline;
+    max-width: 10vw;
+}
+
+#launch-section-lpw-logo {
+    display: inline;
+    max-width: 50px;
+
+}
+#launch-section-false-logo {
+    max-width: 50px;
+}
+
+
+
 
 /* Reailers section*/
 
