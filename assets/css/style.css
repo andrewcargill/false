@@ -351,6 +351,26 @@ nav a:hover {
     max-width: 430px;*/
 }
 
+footer {
+    background-color: #fff;
+    min-height: 400px;
+    padding: 5vw;
+}
+
+footer h2 {
+    text-align: center;
+}
+
+#footer-right-container {
+    width: 100%;
+}
+
+#footer-right-container a {
+    display: inline-block;    
+    text-align: right;
+}
+
+
 
 /*
 @media only screen and (max-width: 1330px) and (min-width:280px){*/
@@ -556,10 +576,7 @@ p {
     object-position: 100% 9%;
 }
 
-footer {
-    background-color: #fff;
-    min-height: 400px; 
-}
+
 
 
 
