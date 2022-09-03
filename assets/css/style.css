@@ -152,11 +152,6 @@ nav a:hover {
 
 /* About page */
 
-#about-top-images {
-    border: 2px solid black;
-    height: 50px;
-}
-
 #about-background {
     position: relative;
     height: auto;
@@ -281,7 +276,7 @@ nav a:hover {
 }
 /*clothes Section */
 
-#clothes_container {
+#launch-section-container {
     background-color: #fff;
     height: 100vh;
     width: 100%;
