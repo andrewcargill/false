@@ -56,10 +56,11 @@ nav ul {
     right: 0;
     margin: 0 0;
     border: 0;
+    border-bottom: 3px solid #fff;
     z-index: 3;
     background-color: #e31c1c;
     width: 100%;
-    height: auto;
+    height: 20px;
 }
 
 nav li {
