@@ -574,6 +574,15 @@ p {
     text-align: center;
 }
 
+#launch-section-logos img {
+    max-height: 27px;
+}
+
+#launch-section-lpw-logo {
+    padding: 10vw 10vw 5vw 10vw;
+    
+    }
+
 /* Reailers Section */
 
 #retailers-false-logo {
@@ -651,6 +660,7 @@ p {
 /* Retailers */
  
     #rose-image img {
+
         width: 80%;
         }
 }
@@ -796,6 +806,15 @@ p {
 #launch-event-details {
     text-align: center;
 }
+
+#launch-section-logos img {
+    max-height: 30px;
+}
+
+#launch-section-lpw-logo {
+    padding: 10vw 20vw 5vw 20vw;
+    
+    }
 
 
 /* Reailers Section */
