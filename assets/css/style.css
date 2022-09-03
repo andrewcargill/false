@@ -275,16 +275,47 @@ nav a:hover {
     color: #fff;
     background-color: black;
 }
-/*clothes Section */
+/* Launch Section */
 
 #launch-section-container {
+    text-align: center;
     background-color: #fff;
-    height: 100vh;
+    height: auto;
     width: 100%;
 }
+
 #launch-section-container img {
     width: 100%;
 }
+
+#launch-section-container h2 {
+    color: #707070;
+    font-family: linotype-didot, serif;
+    text-transform: uppercase;
+    margin-top: 10vw;
+    margin-bottom: 0;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 7vw;
+    margin-top: 10vw;
+    margin-bottom: 0;
+}
+
+#launch-sub-heading {
+    color: #707070;
+    font-size: 1.5vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: .5vw;
+}
+
+#launch-event-details {
+    font-weight: 500;
+    font-size: 2vw;
+    margin-top: 10vw;
+    margin-bottom: 5vw;
+}
+
 
 
 /* Reailers section*/
@@ -518,7 +549,17 @@ p {
 
 /*Launch Section */
 
+#launch-section-container h2 {
+    display: inline;
+}
 
+#launch-sub-heading {
+    text-align: center;
+}
+
+#launch-event-details {
+    text-align: center;
+}
 
 /* Reailers Section */
 
@@ -729,9 +770,19 @@ p {
     font-size: large;
 }
 
-/*Clothes Section */
+/*Launch Section */
 
+#launch-section-container h2 {
+    display: inline;
+}
 
+#launch-sub-heading {
+    text-align: center;
+}
+
+#launch-event-details {
+    text-align: center;
+}
 
 
 /* Reailers Section */
