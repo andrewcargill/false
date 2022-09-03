@@ -715,9 +715,10 @@ footer {
 #retailers-false-logo {
     order: 2;
     display: inline-block;
+    text-align: center;
     margin: 0 0 0 0;
-    padding-top: 5vw;
-    padding-right: 0;
+    padding-top: 8vw;
+    padding-right: 8vw;
     padding-left: 8vw;
     margin-top: 0;
 } 
@@ -728,6 +729,8 @@ footer {
 
 #retailers_text {
     padding-top: 5vw;
+    width: 100%;
+    text-align: center;
     order: 3;
 }
 
@@ -738,23 +741,26 @@ footer {
 }
 
 #retailers h2 {
+    text-align: center;
     margin-top: 0;
-    padding: 18px 0 18px 8vw;
+    padding: 18px 0 18px 0;
 }
 
 #retailers_address ul {
-    padding-top: 0;
-    padding-left: 8vw;
+    padding-top: 10vw;
+    padding-left: 0;
     margin-top: 0;
 }
 
 #retailers_address li {
-    font-size: medium;
+    font-size: large;
 } 
 
 #retailers-image {
     padding-top: 5vw;
+    text-align: center;
     padding-left: 8vw;
+    padding-right: 8vw;
     order: 1;
     width: 100%;
 }
@@ -765,7 +771,7 @@ footer {
 
 #rose-image img {
     padding: 0;
-    width: 200px;
+    width: 500px;
     height: 200px;
     object-fit: cover;
     object-position: 100% 9%;
