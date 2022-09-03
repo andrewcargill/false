@@ -312,24 +312,21 @@ nav a:hover {
 #launch-event-details {
     font-weight: 500;
     font-size: 2vw;
-    margin-top: 10vw;
+    margin-top: 8vw;
     margin-bottom: 5vw;
 }
 
-
-#launch-section-collection-logo {
-    display: inline;
-    max-width: 10vw;
+#launch-section-logos img {
+    width: auto;
+    max-height: 50px;
+    padding-bottom: 5vw;
 }
 
 #launch-section-lpw-logo {
-    display: inline;
-    max-width: 50px;
+padding: 10vw 30vw 5vw 30vw;
 
 }
-#launch-section-false-logo {
-    max-width: 50px;
-}
+
 
 
 
