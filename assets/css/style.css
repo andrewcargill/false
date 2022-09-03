@@ -354,36 +354,28 @@ nav a:hover {
 footer {
     background-color: #fff;
     width: 90vw;
-    height: 5vw;
-    margin: 5vw;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: space-between;
-    align-items: center;
+    margin: 2vw;
+    text-align: center;
 }
 
 footer h2 {
     text-align: center;
 }
 
-#footer-left-container {
-    width: 50%;
-}
-
 #footer-left-container p {
-    text-align: left;
+    font-size: small;
+    text-align: center;
     margin: 0;
 }
 
 #footer-right-container {
-    width: 50%;
-    text-align: right;
+    text-align: center;
 }
 
-#footer-right-container a {
-    height: 20px;
+#footer-right-container i {
+    color: #e31c1c;
+    font-size: xx-large;
+    margin: 2vw;
 }
 
 
