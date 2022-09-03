@@ -491,61 +491,69 @@ p {
 
 /* Reailers Section */
 
-#retailers {
-    background-color: #e31c1c;
-    width: 100%;
-    min-height: 100%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: flex-start;
-}
-
 #retailers-false-logo {
     order: 2;
     display: inline-block;
-    margin: 0 0 0 10vw;
-    padding-right: 0;
-    margin-top: 5%;
-    align-self: center;
-    width: 80%;
-    max-width: 890px;
+    text-align: center;
+    margin: 0 0 0 0;
+    padding-top: 8vw;
+    padding-right: 8vw;
+    padding-left: 8vw;
+    margin-top: 0;
 } 
 
+#retailers-false-logo img {
+    margin: 0;
+}
+
 #retailers_text {
+    padding-top: 5vw;
+    width: 100%;
+    text-align: center;
     order: 3;
 }
 
 #retailers_address {
     padding-bottom: 15vh;
+    padding-top: 5rw;
+    padding-left: 0;
 }
 
 #retailers h2 {
-    display: inline-block;
-    text-align: left;
-    color: #e31c1c;
-    background-color: #fff;
-    margin-top: 10vh;
-    width: 80%; 
-    padding: 18px 0 18px 10vw;
+    text-align: center;
+    margin-top: 0;
+    padding: 18px 0 18px 0;
 }
 
 #retailers_address ul {
-    padding-top: 5vh;
-    padding-left: 10vw;
+    padding-top: 10vw;
+    padding-left: 0;
+    margin-top: 0;
 }
 
 #retailers_address li {
-    font-size: medium;
+    font-size: large;
 } 
 
-#rose-image img {
+#retailers-image {
+    padding-top: 5vw;
+    text-align: center;
+    padding-left: 8vw;
+    padding-right: 8vw;
     order: 1;
-    padding: 8vh 0 0 0 ;
-    width: 350px;
-    /*max-height: 568px;
-    max-width: 430px;*/
+    width: 100%;
+}
+
+#rose-image {
+    margin: 0;
+}
+
+#rose-image img {
+    padding: 0;
+    width: 500px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 100% 9%;
 }
 
 footer {
