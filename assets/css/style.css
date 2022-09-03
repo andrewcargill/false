@@ -716,6 +716,7 @@ footer {
     order: 2;
     display: inline-block;
     margin: 0 0 0 0;
+    padding-top: 5vw;
     padding-right: 0;
     padding-left: 8vw;
     margin-top: 0;
@@ -726,11 +727,13 @@ footer {
 }
 
 #retailers_text {
+    padding-top: 5vw;
     order: 3;
 }
 
 #retailers_address {
     padding-bottom: 15vh;
+    padding-top: 5rw;
     padding-left: 0;
 }
 
@@ -750,6 +753,8 @@ footer {
 } 
 
 #retailers-image {
+    padding-top: 5vw;
+    padding-left: 8vw;
     order: 1;
     width: 100%;
 }
@@ -760,8 +765,10 @@ footer {
 
 #rose-image img {
     padding: 0;
-    width: 350px;
-    max-width: 400px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 100% 9%;
 }
 
 }
