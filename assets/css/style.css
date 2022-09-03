@@ -700,18 +700,6 @@ footer {
 
 /* Reailers Section */
 
-#retailers {
-    background-color: #e31c1c;
-    width: 100%;
-    min-height: 100%;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: flex-start;
-}
-
-
 #retailers-false-logo {
     order: 2;
     display: inline-block;
