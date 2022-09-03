@@ -296,7 +296,7 @@ nav a:hover {
     margin-bottom: 0;
     font-style: normal;
     font-weight: lighter;
-    font-size: 7vw;
+    font-size: 8vw;
     margin-top: 10vw;
     margin-bottom: 0;
 }
@@ -568,10 +568,14 @@ p {
 
 #launch-sub-heading {
     text-align: center;
+    font-size: 12px;
+    padding: 0 5vw;
 }
 
 #launch-event-details {
     text-align: center;
+    font-size: medium;
+    margin-top: 7rw;
 }
 
 #launch-section-logos img {
@@ -801,10 +805,13 @@ p {
 
 #launch-sub-heading {
     text-align: center;
+    font-size: medium;
 }
 
 #launch-event-details {
     text-align: center;
+    font-size: larger;
+    margin-top: 5vw;
 }
 
 #launch-section-logos img {
