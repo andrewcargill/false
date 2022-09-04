@@ -338,6 +338,10 @@ nav a:hover {
     margin-bottom: 5vw;
 }
 
+video {
+    width: 40%;
+}
+
 #launch-section-logos img {
     width: auto;
     max-height: 50px;
