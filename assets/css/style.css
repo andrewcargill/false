@@ -417,6 +417,13 @@ padding: 10vw 30vw 5vw 30vw;
     margin-top: 10vh;
     padding: 0;
 }
+
+#retailers_address a {
+    font-size: smaller;
+    background-color: #fff;
+    color: black;
+}
+
 #rose-image img {
     padding: 8vh 15vh 0 0 ;
     width: 350px;
@@ -608,6 +615,10 @@ p {
 
 #launch-section-logos img {
     max-height: 27px;
+}
+
+video {
+    width: 100%;
 }
 
 #launch-section-lpw-logo {
@@ -847,7 +858,10 @@ p {
 
 #launch-section-lpw-logo {
     padding: 10vw 20vw 5vw 20vw;
-    
+    }
+
+    video {
+        width: 60%;
     }
 
 
