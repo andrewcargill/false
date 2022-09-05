@@ -211,11 +211,9 @@ nav a:hover {
     max-height: 137px;
     max-width: 519px;
 }
-
 #about-image img {
-    max-width: 420px;
+    max-width: 450px;
 }
-
 /* Sign Up section */
 
 #sign-up-container {
@@ -538,6 +536,7 @@ p {
     max-height: 137px;
     max-width: 519px;
 }
+
 
 /* Sign Up - Stardard styling will work for 820px devices*/ 
 
