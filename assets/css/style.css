@@ -382,7 +382,7 @@ padding: 10vw 30vw 5vw 30vw;
     margin: 0 0 0 10vw;
 }
 
-#retailers_address {
+#retailers-address {
     padding-bottom: 15vh;
     padding-left: 10vw;
 }
@@ -398,13 +398,13 @@ padding: 10vw 30vw 5vw 30vw;
     margin-bottom: 0;
 }
 
-#retailers_address ul{
+#retailers-address ul{
     margin: 0;
     margin-top: 10vh;
     padding: 0;
 }
 
-#retailers_address a {
+#retailers-address a {
     font-size: smaller;
     background-color: #fff;
     color: black;
@@ -620,14 +620,14 @@ video {
     margin: 0;
 }
 
-#retailers_text {
+#retailers-text {
     padding-top: 5vw;
     width: 100%;
     text-align: center;
     order: 3;
 }
 
-#retailers_address {
+#retailers-address {
     padding-bottom: 15vh;
     padding-top: 5vw;
     padding-left: 0;
@@ -639,13 +639,13 @@ video {
     padding: 18px 0 18px 0;
 }
 
-#retailers_address ul {
+#retailers-address ul {
     padding-top: 10vw;
     padding-left: 0;
     margin-top: 0;
 }
 
-#retailers_address li {
+#retailers-address li {
     font-size: large;
 } 
 
@@ -843,14 +843,14 @@ video {
     margin: 0;
 }
 
-#retailers_text {
+#retailers-text {
     padding-top: 5vw;
     width: 100%;
     text-align: center;
     order: 3;
 }
 
-#retailers_address {
+#retailers-address {
     padding-bottom: 15vh;
     padding-top: 5vw;
     padding-left: 0;
@@ -862,13 +862,13 @@ video {
     padding: 18px 0 18px 0;
 }
 
-#retailers_address ul {
+#retailers-address ul {
     padding-top: 8vw;
     padding-left: 0;
     margin-top: 0;
 }
 
-#retailers_address li {
+#retailers-address li {
     font-size: large;
 } 
 
