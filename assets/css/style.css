@@ -309,6 +309,7 @@ nav a:hover {
 }
 
 #launch-section-container img {
+    padding-bottom: 30px;
     width: 100%;
 }
 
@@ -383,18 +384,6 @@ padding: 10vw 30vw 5vw 30vw;
     display: inline-block;
     margin: 0 0 0 10vw;
 }
-/*
-#retailers > img {
-    display: inline-block;
-    margin: 0 0 0 10vw;
-    padding-right: 20%;
-    margin-top: 5%;
-    align-self: center;
-    width: auto;
-    max-width: 890px;
-} */
-
-
 
 #retailers_address {
     padding-bottom: 15vh;
@@ -573,11 +562,13 @@ p {
     text-align: left;
     color: white;
     margin: 0;
+    padding-bottom: 50px;
 }
 
 #sign-up-container p {
     color: white;
 }
+
 
 #white-triangle {
     display: none;
