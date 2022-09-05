@@ -177,47 +177,63 @@ nav a:hover {
     min-height: 200px;
 }
 
-/* about page */
+/* launch section */
 
-#about-background {
-    position: relative;
+#launch-section-container {
+    text-align: center;
+    background-color: #fff;
     height: auto;
-    padding-bottom: 15vw;
-}
-
-#about-flex {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: flex-start;
     width: 100%;
-    height: auto;
 }
 
-#about-text {
-    margin-left: 10vw;
-    margin-top: 10vh;
-    width: 30%;
+#launch-section-container img {
+    padding-bottom: 30px;
+    width: 100%;
 }
 
-#about-image {
-    margin-top: 20vh;
-    margin-right: 15vh;
+#launch-section-container h2 {
+    color: #707070;
+    font-family: linotype-didot, serif;
+    text-transform: uppercase;
+    margin-top: 10vw;
+    margin-bottom: 0;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 8vw;
+    margin-top: 10vw;
+    margin-bottom: 0;
 }
 
-.collection-logo img {
-    position: absolute;
-    bottom: 0;
-    width: 30%;
-    margin-bottom: 5vh;
-    margin-left: 10vw;
-    max-height: 137px;
-    max-width: 519px;
+#launch-sub-heading {
+    color: #707070;
+    font-size: 1.5vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    letter-spacing: .5vw;
 }
-#about-image img {
-    max-width: 450px;
+
+#launch-event-details {
+    font-weight: 500;
+    font-size: 2vw;
+    margin-top: 8vw;
+    margin-bottom: 5vw;
 }
+
+video {
+    width: 40%;
+}
+
+#launch-section-logos img {
+    width: auto;
+    max-height: 50px;
+    padding-bottom: 5vw;
+}
+
+#launch-section-lpw-logo {
+padding: 10vw 30vw 5vw 30vw;
+
+}
+
 /* sign up section */
 
 #sign-up-container {
@@ -300,61 +316,46 @@ nav a:hover {
     background-color: black;
 }
 
-/* launch section */
+/* about page */
 
-#launch-section-container {
-    text-align: center;
-    background-color: #fff;
+#about-background {
+    position: relative;
     height: auto;
+    padding-bottom: 15vw;
+}
+
+#about-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-start;
     width: 100%;
+    height: auto;
 }
 
-#launch-section-container img {
-    padding-bottom: 30px;
-    width: 100%;
+#about-text {
+    margin-left: 10vw;
+    margin-top: 10vh;
+    width: 30%;
 }
 
-#launch-section-container h2 {
-    color: #707070;
-    font-family: linotype-didot, serif;
-    text-transform: uppercase;
-    margin-top: 10vw;
-    margin-bottom: 0;
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 8vw;
-    margin-top: 10vw;
-    margin-bottom: 0;
+#about-image {
+    margin-top: 20vh;
+    margin-right: 15vh;
 }
 
-#launch-sub-heading {
-    color: #707070;
-    font-size: 1.5vw;
-    margin-top: 0;
-    margin-bottom: 0;
-    letter-spacing: .5vw;
+.collection-logo img {
+    position: absolute;
+    bottom: 0;
+    width: 30%;
+    margin-bottom: 5vh;
+    margin-left: 10vw;
+    max-height: 137px;
+    max-width: 519px;
 }
-
-#launch-event-details {
-    font-weight: 500;
-    font-size: 2vw;
-    margin-top: 8vw;
-    margin-bottom: 5vw;
-}
-
-video {
-    width: 40%;
-}
-
-#launch-section-logos img {
-    width: auto;
-    max-height: 50px;
-    padding-bottom: 5vw;
-}
-
-#launch-section-lpw-logo {
-padding: 10vw 30vw 5vw 30vw;
-
+#about-image img {
+    max-width: 450px;
 }
 
 /* reailers section */
@@ -475,6 +476,83 @@ figcaption {
     min-height: 10vh;
 }
 
+/* launch Section */
+
+#launch-section-container h2 {
+    display: inline;
+}
+
+#launch-sub-heading {
+    text-align: center;
+    font-size: 12px;
+    padding: 0 5vw;
+}
+
+#launch-event-details {
+    text-align: center;
+    font-size: medium;
+    margin-top: 7vw;
+}
+
+#launch-section-logos img {
+    max-height: 27px;
+}
+
+video {
+    width: 100%;
+}
+
+#launch-section-lpw-logo {
+    padding: 10vw 10vw 5vw 10vw;
+    
+    }
+
+/* sign up section */ 
+
+#sign-up-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: space-between;
+    padding-top: 5vh;
+    height: auto;
+    padding-bottom: 5vh;
+    background-color: #e31c1c;
+}
+
+#sign-up-text {
+    width: auto;
+    margin: 5vw 8vw;
+    padding: 0;
+}
+
+#sign-up-container h2 {
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+#sign-up-container p {
+    color: white;
+}
+
+
+#white-triangle {
+    display: none;
+    order: -1;
+    background-color: pink;
+}
+
+#white-triangle img {
+    height: 10px;
+}
+
+#form-container {
+    padding-left: 8vw;
+}
+
 /* about us section */
 
 #about-background {
@@ -525,83 +603,6 @@ p {
     max-height: 137px;
     max-width: 519px;
 }
-
-/* sign up section */ 
-
-#sign-up-container {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-content: space-between;
-    padding-top: 5vh;
-    height: auto;
-    padding-bottom: 5vh;
-    background-color: #e31c1c;
-}
-
-#sign-up-text {
-    width: auto;
-    margin: 5vw 8vw;
-    padding: 0;
-}
-
-#sign-up-container h2 {
-    text-align: left;
-    color: white;
-    margin: 0;
-    padding-bottom: 50px;
-}
-
-#sign-up-container p {
-    color: white;
-}
-
-
-#white-triangle {
-    display: none;
-    order: -1;
-    background-color: pink;
-}
-
-#white-triangle img {
-    height: 10px;
-}
-
-#form-container {
-    padding-left: 8vw;
-}
-
-/* launch Section */
-
-#launch-section-container h2 {
-    display: inline;
-}
-
-#launch-sub-heading {
-    text-align: center;
-    font-size: 12px;
-    padding: 0 5vw;
-}
-
-#launch-event-details {
-    text-align: center;
-    font-size: medium;
-    margin-top: 7vw;
-}
-
-#launch-section-logos img {
-    max-height: 27px;
-}
-
-video {
-    width: 100%;
-}
-
-#launch-section-lpw-logo {
-    padding: 10vw 10vw 5vw 10vw;
-    
-    }
 
 /* reailers section */
 
@@ -707,45 +708,34 @@ video {
         width: 80%;
     }  
 
-/* about us */
+/*launch section */
 
-#about-background {
-    position: relative;
-    height: auto;
-    padding-bottom: 0;
+#launch-section-container h2 {
+    display: inline;
 }
 
-#about-text {
-    order: 2;
-    width: 100%;
-    margin: 5vw 8vw;
+#launch-sub-heading {
+    text-align: center;
+    font-size: medium;
 }
 
-#about-image {
-    order: 1;
-    width: 100%;
-    margin-top: 10vh;
-    margin-right: 0;
-    margin-left: 0;
+#launch-event-details {
+    text-align: center;
+    font-size: larger;
+    margin-top: 5vw;
 }
 
-#about-image-container {
-    width: 100%;
+#launch-section-logos img {
+    max-height: 30px;
 }
 
-#about-image img {
-    height: auto;
-    width: 100%; 
-    max-width: none;
-}
+#launch-section-lpw-logo {
+    padding: 10vw 20vw 5vw 20vw;
+    }
 
-.collection-logo img {
-    position: static;
-    margin-bottom: 20vw;
-    width: 80%;
-    margin: 5vw 5vw 3vw 8vw;
-    max-width: 350px;
-}
+    video {
+        width: 60%;
+    }
 
 /* sign up section*/ 
 
@@ -796,35 +786,45 @@ video {
     font-size: large;
 }
 
-/*launch section */
+/* about us */
 
-#launch-section-container h2 {
-    display: inline;
+#about-background {
+    position: relative;
+    height: auto;
+    padding-bottom: 0;
 }
 
-#launch-sub-heading {
-    text-align: center;
-    font-size: medium;
+#about-text {
+    order: 2;
+    width: 100%;
+    margin: 5vw 8vw;
 }
 
-#launch-event-details {
-    text-align: center;
-    font-size: larger;
-    margin-top: 5vw;
+#about-image {
+    order: 1;
+    width: 100%;
+    margin-top: 10vh;
+    margin-right: 0;
+    margin-left: 0;
 }
 
-#launch-section-logos img {
-    max-height: 30px;
+#about-image-container {
+    width: 100%;
 }
 
-#launch-section-lpw-logo {
-    padding: 10vw 20vw 5vw 20vw;
-    }
+#about-image img {
+    height: auto;
+    width: 100%; 
+    max-width: none;
+}
 
-    video {
-        width: 60%;
-    }
-
+.collection-logo img {
+    position: static;
+    margin-bottom: 20vw;
+    width: 80%;
+    margin: 5vw 5vw 3vw 8vw;
+    max-width: 350px;
+}
 
 /* reailers section */
 
