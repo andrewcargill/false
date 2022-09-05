@@ -547,7 +547,6 @@ p {
     flex-wrap: wrap;
     justify-content: flex-start;
     align-content: space-between;
-    width: 80%p;
     padding-top: 5vh;
     height: auto;
     padding-bottom: 5vh;
@@ -555,7 +554,7 @@ p {
 }
 
 #sign-up-text {
-    width: 80%;
+    width: auto;
     margin: 5vw 8vw;
     padding: 0;
 }
@@ -601,7 +600,7 @@ p {
 #launch-event-details {
     text-align: center;
     font-size: medium;
-    margin-top: 7rw;
+    margin-top: 7vw;
 }
 
 #launch-section-logos img {
@@ -639,7 +638,7 @@ p {
 
 #retailers_address {
     padding-bottom: 15vh;
-    padding-top: 5rw;
+    padding-top: 5vw;
     padding-left: 0;
 }
 
@@ -779,7 +778,6 @@ p {
     flex-wrap: wrap;
     justify-content: flex-start;
     align-content: space-between;
-    width: 80%p;
     padding-top: 5vh;
     height: auto;
     padding-bottom: 5vh;
@@ -876,7 +874,7 @@ p {
 
 #retailers_address {
     padding-bottom: 15vh;
-    padding-top: 5rw;
+    padding-top: 5vw;
     padding-left: 0;
 }
 
@@ -887,7 +885,7 @@ p {
 }
 
 #retailers_address ul {
-    padding-top: 10vw;
+    padding-top: 8vw;
     padding-left: 0;
     margin-top: 0;
 }
