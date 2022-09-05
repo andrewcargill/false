@@ -215,12 +215,12 @@ nav a:hover {
 #launch-event-details {
     font-weight: 500;
     font-size: 2vw;
-    margin-top: 8vw;
+    margin-top: 8vh;
     margin-bottom: 5vw;
 }
 
 video {
-    width: 40%;
+    width: 30%;
 }
 
 #launch-section-logos img {
@@ -230,7 +230,7 @@ video {
 }
 
 #launch-section-lpw-logo {
-padding: 10vw 30vw 5vw 30vw;
+padding: 10vh 30vw 5vw 30vw;
 
 }
 
