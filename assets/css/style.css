@@ -414,6 +414,10 @@ padding: 10vw 30vw 5vw 30vw;
     margin-top: 20px;
 }
 
+#retailers-address a:hover {
+    color: black;
+}
+
 #rose-image img {
     padding: 8vh 15vh 0 0 ;
     width: 350px;
