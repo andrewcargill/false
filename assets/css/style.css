@@ -296,16 +296,16 @@ padding: 10vw 30vw 5vw 30vw;
 }
 
 .input-container label {
-    font-size: 13px;
-    font-weight: 500;
+    font-size: 16px;
 }
 
 #submit input {
+    font-family: halyard-display, "source Sans Pro", sans-serif;
     border: none;
     background-color: #fff;
     text-transform: uppercase;
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 100;
     padding: 10px; 
     margin-top: 60px; 
     width: 120px;
@@ -406,9 +406,12 @@ padding: 10vw 30vw 5vw 30vw;
 }
 
 #retailers-address a {
+    text-decoration: none;
     font-size: smaller;
-    background-color: #fff;
-    color: black;
+    background-color: #e31c1c;
+    color: #fff;
+    border: 1px dotted #fff;
+    margin-top: 20px;
 }
 
 #rose-image img {
