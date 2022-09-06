@@ -111,7 +111,8 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Unfixed Bugs
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
-### Deployment
+## Deployment
+***
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -124,9 +125,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 ## Credits
 ***
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project.
+This project contains no external code. All the code in this project was written by myself. I used tutorials or forums to help me understand specific parts of code and then would apply it to my needs.
+
 
 ### Content
 - Font are from [Adobe Fonts](https://fonts.adobe.com/fonts) and [Google Fonts](https://fonts.google.com/about)
@@ -162,27 +163,10 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
  - Images on the site are from [iStock by Getty Image](https://istockphoto.com)
-
-
-
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-Other General Project Advice
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
-
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
+ - Music in the video was made by and used with the permission of [Dark Arts Club](https://www.instagram.com/the_dark_arts_club/?hl=en)
+ - video was made using [Adobe Premiere Pro](https://www.adobe.com/se/products/premiere.html?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMRYSAMcGSQefo5KXrvKOlVqj9uKkJNZbPqa40NO4uIK0u34Q0byUKcaAlzCEALw_wcB&mv=search&mv=search&sdid=LQLZT7BT&ef_id=Cj0KCQjw39uYBhCLARIsAD_SzMRYSAMcGSQefo5KXrvKOlVqj9uKkJNZbPqa40NO4uIK0u34Q0byUKcaAlzCEALw_wcB:G:s&s_kwcid=AL!3085!3!340839217843!e!!g!!adobe%20premiere!1469953160!58520344553)
+ - Sound was edited using [Logic Pro X](https://www.apple.com/logic-pro/)
+ - Images were edited using [Adobe Photoshop](https://www.adobe.com/se/products/photoshop/landpb.html?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMSAro3DTlHKXUSHb9Btxli6K7nEZ0ej3UpqYP7wLy-sSvTD_4f3DPYaAh2CEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjw39uYBhCLARIsAD_SzMSAro3DTlHKXUSHb9Btxli6K7nEZ0ej3UpqYP7wLy-sSvTD_4f3DPYaAh2CEALw_wcB:G:s&s_kwcid=AL!3085!3!597384934920!e!!g!!adobe%20photoshop!1469952956!58520335113)
+ - Wireframes were created using [Adobe XD](https://www.adobe.com/products/xd.html)
 
 
