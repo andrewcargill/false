@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,10 +9,13 @@
     <meta name="description" content="Company website for FALSE Urban Designer Clothing.">
     <meta name="author" content="False Urban Designer Clothing">
     <link rel="stylesheet" href="assets/css/style.css">
+    <!--Adobe Fonts-->
     <link rel="stylesheet" href="https://use.typekit.net/xli2tln.css">
+    <!--FontAwesome-->
     <script src="https://kit.fontawesome.com/8c4e13a9be.js" crossorigin="anonymous"></script>
     <title>False Urban Designer Clothing</title>
 </head>
+
 <body id="home-nav">
     <header>
         <nav>
@@ -24,142 +28,154 @@
             </ul>
         </nav>
     </header>
-    
-        <section id="landing-page-background">
-            <div id="landing-page-whitebox">
-                
-                <h1 id="designer-clothing-text">Urban Designer Clothing</h1> 
 
-                <img id="landing-page-logo" src="assets/images/false_logo.png" alt="False Company Logo">
-                 
-                 <div id="image-is-everything-text">
-                    <span id="title-1">Company Launch</span>
-                    <span id="title-2">Paris Fashion Week</span>
-                    <span id="title-3">27 Sept 2022</span>
-                    <span id="title-4">@Carrousel de Loure</span>
-                   
-                 </div>
-            </div>
-        </section>
-        <div id="lv" class="red-spacer"></div>  
+    <!--Landing page-->
+    <section id="landing-page-background">
+        <div id="landing-page-whitebox">
 
-        <section id="launch-section-container">
-            <img src="/assets/images/tree_mask.png" alt="A silhouette of a tree and a winding path leading to the foreground.">
-            <h2 id="launch-nav">Paris Fashion Week</h2>
-            <p id="launch-sub-heading">We launch with a collection show at the worlds most iconic fashion location.</p>
-            <p id="launch-event-details">Tuesday 27th September @ Carrousel de Loure</p>
-            
-            <div>
-                <video src="/assets/video/launch-event-advert.mp4" controls></video>
-            </div>
+            <h1 id="designer-clothing-text">Urban Designer Clothing</h1>
 
-            <div id="launch-section-logos">
-                <img id="launch-section-collection-logo" src="/assets/images/collection_logo.png" alt="Logo of the 2022 clothes collection. The logo consists of the numbers 2022 in a box with the word 'collection' written in a large script font.">
-                <a href="https://fhcm.paris/en/paris-fashion-week-en/" target="_blank"><img id="launch-section-lpw-logo" src="/assets/images/logo_parisfashionweek.png" alt="A small Paris Fashion Week logo. When clicked this logo on will open up the events website."></a>
-                <img id="launch-section-false-logo" src="/assets/images/false_logo.png" alt="The FALSE company logo">
-            </div>
+            <img id="landing-page-logo" src="assets/images/false_logo.png" alt="False Company Logo">
 
-        </section>    
+            <div id="image-is-everything-text">
+                <span id="title-1">Company Launch</span>
+                <span id="title-2">Paris Fashion Week</span>
+                <span id="title-3">27 Sept 2022</span>
+                <span id="title-4">@Carrousel de Loure</span>
 
-        <section id="sign-up-container">
-            <div id="sign-up-text">
-                <h2>Sign up for VIP event access</h2>
-                <p>On the day of the event we will be streaming the catwork show on this website. Our online live content will include 
-                    behind the scenes build up and exclusive designer interviews. 
-                </p>
-                <p>Simply sign up below.</p>
             </div>
-            <div id="white-triangle">
-                <img src="/assets/images/white-triangle.png" alt="White traingle which is used for styling the sign up section of the website.">
+        </div>
+    </section>
+    <div id="lv" class="red-spacer"></div>
+    <!--Launch Section-->
+    <section id="launch-section-container">
+        <img src="/assets/images/tree_mask.png"
+            alt="A silhouette of a tree and a winding path leading to the foreground.">
+        <h2 id="launch-nav">Paris Fashion Week</h2>
+        <p id="launch-sub-heading">We launch with a collection show at the worlds most iconic fashion location.</p>
+        <p id="launch-event-details">Tuesday 27th September @ Carrousel de Loure</p>
+
+        <div>
+            <video src="/assets/video/launch-event-advert.mp4" controls></video>
+        </div>
+
+        <div id="launch-section-logos">
+            <img id="launch-section-collection-logo" src="/assets/images/collection_logo.png"
+                alt="Logo of the 2022 clothes collection. The logo consists of the numbers 2022 in a box with the word 'collection' written in a large script font.">
+            <a href="https://fhcm.paris/en/paris-fashion-week-en/" target="_blank"><img id="launch-section-lpw-logo"
+                    src="/assets/images/logo_parisfashionweek.png"
+                    alt="A small Paris Fashion Week logo. When clicked this logo on will open up the events website."></a>
+            <img id="launch-section-false-logo" src="/assets/images/false_logo.png" alt="The FALSE company logo">
+        </div>
+
+    </section>
+    <!--Sign Up Section-->
+    <section id="sign-up-container">
+        <div id="sign-up-text">
+            <h2>Sign up for VIP event access</h2>
+            <p>On the day of the event we will be streaming the catwork show on this website. Our online live content
+                will include
+                behind the scenes build up and exclusive designer interviews.
+            </p>
+            <p>Simply sign up below.</p>
+        </div>
+        <div id="white-triangle">
+            <img src="/assets/images/white-triangle.png"
+                alt="White traingle which is used for styling the sign up section of the website.">
+        </div>
+        <form id="form-container">
+            <div class="input-container">
+                <label for="fname">First Name:</label>
+                <input type="text" id="fname" name="first_name" required>
             </div>
-            <form id="form-container">
-                <div class="input-container">
-                    <label for="fname">First Name:</label>
-                    <input type="text" id="fname" name="first_name" required>
-                </div>
-                <div class="input-container">
-                    <label for="lname">Last Name:</label>
-                    <input type="text" id="lname" name="last_name" required>
-                </div>
-                <div class="input-container">
+            <div class="input-container">
+                <label for="lname">Last Name:</label>
+                <input type="text" id="lname" name="last_name" required>
+            </div>
+            <div class="input-container">
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email_address" required>
-                </div>
-                <div id="submit">
+            </div>
+            <div id="submit">
                 <input type="submit" value="join!">
-                </div>
-            </form>
+            </div>
+        </form>
 
-        </section>
+    </section>
+    <!--About Section-->
+    <section id="about-background">
+        <div id="about-flex">
+            <div id="about-text">
+                <h2>About Us</h2>
+                <p>We met at The Stockholm School of Design in 2018. We knew it had
+                    to be a range of fresh urban clothing inspired by the colour red.
+                </p>
+                <p>Red is love, danger and a warning. Red is shocking, brave and direct.</p>
+                <p>We can't wait to share our new collection in Paris later this month and
+                    build this wonderful new brand together with our customers.
+                </p>
+                <p><i>Julie Jones & Ron Tickle </i>
+                </p>
+                <p>(False Urban Clothing)</p>
+            </div>
 
-        <section id="about-background">
-            <div id="about-flex">
-                <div id="about-text">
-                    <h2>About Us</h2>
-                    <p>We met at The Stockholm School of Design in 2018. We knew it had
-                        to be a range of fresh urban clothing inspired by the colour red.
-                    </p> 
-                    <p>Red is love, danger and a warning. Red is shocking, brave and direct.</p>
-                    <p>We can't wait to share our new collection in Paris later this month and 
-                        build this wonderful new brand together with our customers.
-                    </p>
-                    <p><i>Julie Jones & Ron Tickle </i>
-                    </p>
-                    <p>(False Urban Clothing)</p>
-                </div>
-       
-                <div id="about-image">
-                    <div id="about-image-container">
+            <div id="about-image">
+                <div id="about-image-container">
                     <figure>
-                        <img src="/assets/images/mens_fashion_image_1.jpg" alt="Man listening to music in headphones where a black jacket and black baseball cap.">
-                    <figcaption>False hat and black stealer leather jacket</figcaption></figure>
-                    </div>    
+                        <img src="/assets/images/mens_fashion_image_1.jpg"
+                            alt="Man listening to music in headphones where a black jacket and black baseball cap.">
+                        <figcaption>False hat and black stealer leather jacket</figcaption>
+                    </figure>
                 </div>
             </div>
+        </div>
         <div class="collection-logo" id="mens-collecction-logo">
             <img src="/assets/images/collection_logo.png" alt="2022 collection logo">
         </div>
-        </section>
-
-        <section id="retailers">   
-            <div id="retailers-false-logo">
+    </section>
+    <!--Retailers Section-->
+    <section id="retailers">
+        <div id="retailers-false-logo">
             <img src="/assets/images/false_logo_white.png" alt="The FALSE company logo.">
+        </div>
+        <div id="retailers-text">
+            <h2>Retailers</h2>
+            <div id="retailers-address">
+                <ul>
+                    <li><strong>Boudi Fashion</strong></li>
+                    <li>18 S Molton Street</li>
+                    <li>London W1k 5QU</li>
+                    <li><a class="links" href="https://www.facebook.com/boudifashion/" target="_blank">Visit Website</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li><strong>Junkyard Stockholm</strong></li>
+                    <li>Gamla Brogatan 26</li>
+                    <li>111 22 Stockholm</li>
+                    <li><a class="links" href="https://www.facebook.com/junkyard/posts/10155585956184103/"
+                            target="_blank">Visit Website</a></li>
+                </ul>
             </div>
-            <div id="retailers-text">
-                    <h2>Retailers</h2>
-                    <div id="retailers-address">
-                        <ul>
-                            <li><strong>Boudi Fashion</strong></li>
-                            <li>18 S Molton Street</li>
-                            <li>London W1k 5QU</li>
-                            <li><a class="links" href="https://www.facebook.com/boudifashion/" target="_blank">Visit Website</a></li>
-                        </ul>
-                        <ul>
-                            <li><strong>Junkyard Stockholm</strong></li>
-                            <li>Gamla Brogatan 26</li>
-                            <li>111 22 Stockholm</li>
-                            <li><a class="links" href="https://www.facebook.com/junkyard/posts/10155585956184103/" target="_blank">Visit Website</a></li>
-                        </ul>
-                    </div>
-            </div>  
-            <div id="retailers-image">
-                <figure id="rose-image">
-                    <img src="/assets/images/rose.jpg" alt="A picture of a single red rose on a white background.">
-                    <figcaption></figcaption>
-                </figure>
-            </div>
-        </section>
+        </div>
+        <div id="retailers-image">
+            <figure id="rose-image">
+                <img src="/assets/images/rose.jpg" alt="A picture of a single red rose on a white background.">
+                <figcaption></figcaption>
+            </figure>
+        </div>
+    </section>
 
-        <footer>
-            <div id="footer-left-container">
+    <footer>
+        <div id="footer-left-container">
             <p><i class="fa-regular fa-copyright"></i> Copyright 2022 False Clothing AB.</p>
-            </div>
-            <div id="footer-right-container">
+        </div>
+        <div id="footer-right-container">
             <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-square-facebook"></i></a>
             <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
             <a href="https://www.twitter.com/" target="_blank"><i class="fa-brands fa-square-twitter"></i></a>
-            </div>
-        </footer>
-          
+        </div>
+    </footer>
+
 </body>
+
 </html>

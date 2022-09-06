@@ -81,6 +81,8 @@ The site layout of landing page > Launch infomation > sign up > retailers create
 
 Color is used to stimulate the user. To create feeling of shock and challenge the normal perseptions of 'what a website is'. This is intentional, as the company wants to stand out. It wants to show protential customers that they are not afriad to break the rules, that they are about to launch a clothing range that is something mew and dynamic. Fashion and art is all about stimulation. Asking questions and presenting challenges for the viewer. The website needed to do this, but in a way that did not leave the user alone or lost. Splitting the sections into white and red backgrounds keeps the stimulation for the user and supports their journey through the website. 
 
+Font - write something about the choices.
+
 The site functions well on mobile and desktop devices. Three different screen widths were used to ensure the site looks good on all platforms.
 
 
@@ -161,7 +163,6 @@ You can break the credits section up into Content and Media, depending on what y
 ### Media
  - Images on the site are from [iStock by Getty Image](https://istockphoto.com)
 
-- The images used for the gallery page were taken from this other open source site
 
 
 
