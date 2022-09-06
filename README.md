@@ -98,6 +98,8 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.*
 
+
+
 ### Validator Testing
 - HTML
     - No errors were returned when passing through the official W3C validator
@@ -125,11 +127,40 @@ In this section you need to reference where you got your content, media and extr
 You can break the credits section up into Content and Media, depending on what you have included in your project.
 
 ### Content
- - The text for the Home page was taken from Wikipedia Article A
- - Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
- - The icons in the footer were taken from Font Awesome
+- Font are from [Adobe Fonts](https://fonts.adobe.com/fonts) and [Google Fonts](https://fonts.google.com/about)
+
+ - Information was taken from [Paris Fashion Week](https://www.cqlcorp.com/insights/6-step-guide-to-using-adobe-fonts-on-your-next-web-project/)
+
+- To refresh HTML Semantics I read [developer.mozilla.com](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+)
+
+- For font size guidelines I referenced [smashing magazine](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/#:~:text=In%20general%2C%20the%20rule%20of,readability%20for%20visually%20impaired%20readers.)
+
+ - Tutorial on embedding video was from [w3schools](https://www.w3schools.com/html/html5_video.asp)
+
+ - Various image tutorials were: [object fit](https://www.w3schools.com/css/css3_object-fit.asp), [image cropping](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
+
+ - The icons in the footer were taken from [Font Awsome](https://fontawesome.com/)
+
+ - Information on [measure units](https://www.w3schools.com/cssref/css_units.asp)
+
+ - Reference for [create centered menu](https://www.w3schools.com/howto/howto_css_topnav_centered.asp)
+
+ - Reference for [Html Forms](https://www.w3schools.com/html/html_forms.asp)
+
+ - Reference for Flex box [ccs-tricks](https://css-tricks.com/responsive-layouts-fewer-media-queries/) and [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+ - For smooth scroll I referenced [gomakethings.com](https://gomakethings.com/smooth-scrolling-links-with-only-css/
+)
+
+- Reference for screen sizes was from [browserstack](https://www.browserstack.com/guide/responsive-design-breakpoints
+)
+
+- Reference for hidding text or elements was from [moz.com](https://moz.com/blog/guide-to-hidden-text)
+
 ### Media
-- The photos used on the home and sign up page are from This Open Source site
+ - Images on the site are from [iStock by Getty Image](https://istockphoto.com)
+
 - The images used for the gallery page were taken from this other open source site
 
 
