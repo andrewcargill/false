@@ -1,20 +1,18 @@
 # FASLE Urban Designer Clothing 
-FALSE Urban Designer Clothing is a site to promote the future launch of a new high end clothing brand at Paris Fashion Week. Users will find out when the event is taking place and be encouraged to sign up for exclusive access to a live-stream event.  
+FALSE Urban Designer Clothing is a site to promote a new high-end clothing brand called 'FALSE' which will be launching its first clothing range during Paris Fashion Week 2022. Users will find out when the event is taking place and be encouraged to sign up for 'exclusive access' to a live-stream event.  
 
-The site is targeted towards uppper middle class / upper class men and women aged 20-40 years old. They already invest in high end fashion and are interested in modern, fresh and dynamic designer and clothing. 
+The site is targeted towards uppper middle class / upper class men and women aged 20-40 years old. The demographic have a passion for, and invest in, high-end fashion. They demand modern, fresh and exciting clothing. 
 
-The design is all geared around the companies need to want to be fresh, dynamic and stand out. 
+The sites design is all geared around the companies need to be dynamic and stand out. 
 
-The breif was: Engage. Intrigue. Inform. Use Red.
+The breif in short: Engage. Intrigue. Inform. Use Red.
 
-The design layout challenges some conventions and referrences modern / abstract art and the use of negative space, to give a simple and uncomplicated, but impacting result. 
+The design layout aims to challenges conventions and referrences towards modern / abstract art and the use of negative space, to give a simple and uncomplicated, but impacting result. 
 
 ![Website on various devices](/assets/images/readme-main-image.jpg)
 
 ## Features
 ***
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 PUT IN A SCREEN SHOT HERE
@@ -30,10 +28,10 @@ PUT IN A SCREEN SHOT HERE
 ![Home Page](/assets/images/readme-home.png)
 
 #### Home
-- Designed for the white box to be off-center on larger screens and centered on mobile devices to give the impression of fresh and dynamic.
+- Designed for the white box to be off-center on larger screens and centered on mobile devices in reference to abstract art and a clear use of negative space.
 - White container goes off the bottom of the screen to encourage the user to explore and wonder 'what comes next?'
-- minimal text and clean design will stand out against any other design company. 
-- Image are not used as this is pre-release website and to keep the message of 'mystery' is important.
+- minimal text and clean design will stand out against other design companies. 
+- Images are not used as this is pre-release website. The company wants to promote the feelings of 'mystery' and 'what's coming?'.
 
 ![Home text zoom](/assets/images/readme-home2.png)
 
@@ -44,18 +42,18 @@ PUT IN A SCREEN SHOT HERE
 
 ![Launch page](/assets/images/readme-launch.png)
 #### Launch Section
-- The information is clear and the white background helps the users senses to relax and take in the information.
+- The information is clear with the white background helping the users to relax and take in the information.
 - The font of Paris Fashion Week gives the message of quality and status. The text enhances the feeling that this is an important event and something to be part of.
-- The user is drawn to the date and location as this is the most important information on the page.
+- The user is drawn to the date and location, as this is the most important information on the page.
 - The use of no imagary is intentional as it keeps the user nutrual. We do not want them to judge if they like or dislike the brand until they see the launch event.
-- The video will only run when the user clicks play. The video is 40 secounds long as we do not want to distract the user away from the site or other information on the page. 
+- The video will only run when the user clicks play. The video is 40 secounds long as we do not want to distract the user away from the site. 
 
 ![Sign up page](/assets/images/readme-signup2.png)
 #### Sign Up Section
-- The site switches back to dynamic minalmilist design to stiumate the user and encourae them take action.
+- The site switches back to dynamic minalmilist design to stiumate the user and encourage them take action.
 - The user to taken back to the emotion felt on the home page.
 - The message is simple and clear.
-- It is important to not 'over sell' to this demagraphic.
+- We felt it was important to not 'over sell', as this is not liked by the target demographic.
 
 ![Sign up zoom](/assets/images/readme-signup.png)
 #### Sign Up Interactive
@@ -75,32 +73,27 @@ PUT IN A SCREEN SHOT HERE
 ## Testing
 ****
 
-Extensive testing has been carried out to ensure that the site functions as intented. A single scroll page design was utilized to make navigating the site intitive and navigation is present for users who wish to go directly to a specific section of the site. 
+Extensive testing has been carried out to ensure that the site functions as intented. A single scroll page design was utilized to make navigating the site intuative and navigation is present for users who wish to go directly to a specific section of the site. 
 
 The site layout of landing page > Launch infomation > sign up > retailers creates a natural flow for the user. An average user will want to see this information and in this order. 
 
-Color is used to stimulate the user. To create feeling of shock and challenge the normal perseptions of 'what a website is'. This is intentional, as the company wants to stand out. It wants to show protential customers that they are not afriad to break the rules, that they are about to launch a clothing range that is something mew and dynamic. Fashion and art is all about stimulation. Asking questions and presenting challenges for the viewer. The website needed to do this, but in a way that did not leave the user alone or lost. Splitting the sections into white and red backgrounds keeps the stimulation for the user and supports their journey through the website. 
+Color is used to stimulate the user. To create feelings of anticipation and challenge the normal perceptions of 'what a website should look like'. This is intentional, as the company wants to show protential customers that they are not afriad to break the rules, that they are about to launch a clothing range that is something new and something exciting. Fashion and art is all about stimulation. Presenting challenges and emotions for the viewer. This website needed to do this, but in a way that did not leave the user feeling stranded or lost. Splitting the website into sections and alternating white and red backgrounds keeps the user engaged and supports their journey through the website. 
 
-Font - write something about the choices.
+Soft feeling fonts are used across the website to act as a friendly voice against the dynamic design and color. The event information on the landing page was the only place a more impactive font was used, as it was an announcement that what to be direct, clear and not ignored.  
 
-The site functions well on mobile and desktop devices. Three different screen widths were used to ensure the site looks good on all platforms.
+The site functions well on mobile and desktop devices. Three different screen widths were used to ensure the site looks good on all platforms. On mobile devices the color is the main element used to create an impactful site, whereas for the larger screens imaginative placements of text and images could be used to enhance the sites appeal.
 
-
-The scaling of the site was very challenging. The use of space on a laptop and desktop screen had to be utilized in a very unconvertional way to try and carry the websites design vision. 
-
-
-The landing page will only be used for the build up to the launch of the company. It is envisaged that once the company is launched the site will evolve to display the clothes and inspirations the company wishes to promote. This website will proivde a core for this future expansion and designing around the idea of negative space.
 
 
 ### Challenges, Bugs and fixes
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The scaling of the site was very challenging. I extensivly explored the various measurement units that could be used to control scaling (such: as px,vw,rem) and strived to use them to support my design goals for the sites. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+I have created my wireframes using Adobe XD and trying to translate them into reality proved challanging as in many section of the site the elements re-order when they are scaled. To solve this I read-up on Flex and learn how to order the elements. 
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.*
+Padding and margins are extremly useful. When I started the project I was still a little unsure about how and when to use them. But as I got into the project I found my code was getting cleaner and my solutions were getting simplier.
 
-
+I grew to rely on and use Google Inspect more and more through the course of the project. The ability to identify elements, edit live and identify the specific code line number supported in a productive work flow.
 
 ### Validator Testing
 - HTML
@@ -109,7 +102,7 @@ If this section grows too long, you may want to split it off into a separate fil
     -No errors were found when passing through the official (Jigsaw) validator
 
 ### Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+The menu us my main bug. It works but it does not look great on mobile devices. An easy fix would have been to use Javascript. As this was a html/css project I felt it may have worked against my in the grading had I added Javascript to the project.
 
 ## Deployment
 ***
@@ -126,7 +119,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 ***
 
 
-This project contains no external code. All the code in this project was written by myself. I used tutorials or forums to help me understand specific parts of code and then would apply it to my needs.
+This project contains no external code. All the code in this project was written by myself. I used tutorials or forums to help me understand specific parts of code and solve desing problems. 
+
+I met with a friend, who is a programmer, three or four times during the project. He was able to guide me on specific coding problems I was having. 
 
 
 ### Content
