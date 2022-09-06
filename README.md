@@ -62,35 +62,35 @@ PUT IN A SCREEN SHOT HERE
 - The submit button features the word 'join' as it is softer and more playful than 'submit'.
 - User engagement is enhanced through a mouse over-colour change on the submit button.
 
+![Retailers](/assets/images/readme-retailers.png)
+#### Retailers
+- This section of the site is included to promote the companies who will be re-selling the clothes.
+- User interaction can be found with a mouse over color change on the 'visit website' link under each retailer
+
 ![Social Media](/assets/images/readme-socialmedia.png)
 #### Social Media
 - The social media icons encourage engagement through mouse-over color change.
 - They sit in the footer of the site so as not dominante or distract from the sites current goals.
 
 ## Testing
-#### 
+****
+
 Extensive testing has been carried out to ensure that the site functions as intented. A single scroll page design was utilized to make navigating the site intitive and navigation is present for users who wish to go directly to a specific section of the site. 
 
 The site layout of landing page > Launch infomation > sign up > retailers creates a natural flow for the user. An average user will want to see this information and in this order. 
 
 Color is used to stimulate the user. To create feeling of shock and challenge the normal perseptions of 'what a website is'. This is intentional, as the company wants to stand out. It wants to show protential customers that they are not afriad to break the rules, that they are about to launch a clothing range that is something mew and dynamic. Fashion and art is all about stimulation. Asking questions and presenting challenges for the viewer. The website needed to do this, but in a way that did not leave the user alone or lost. Splitting the sections into white and red backgrounds keeps the stimulation for the user and supports their journey through the website. 
 
+The site functions well on mobile and desktop devices. Three different screen widths were used to ensure the site looks good on all platforms.
+
+
+The scaling of the site was very challenging. The use of space on a laptop and desktop screen had to be utilized in a very unconvertional way to try and carry the websites design vision. 
+
+
 The landing page will only be used for the build up to the launch of the company. It is envisaged that once the company is launched the site will evolve to display the clothes and inspirations the company wishes to promote. This website will proivde a core for this future expansion and designing around the idea of negative space.
 
 
-
-
-- Clear rational for the project
-This a company that had a bold image. in-your-face but still designer. They needed a site that would instantly get a reaction of 'wow' or even 'what's next?!'.
-
-- It's important to engage with the demographic and not to be afraid of excluding those outside of the target audience. Shock is a great way to do this. No over complicated, over informed and advertising - more focused on simple, key information with a dynamic design so you know that something new is about to enter the market.
-
-- Key Project Goals: To stand out on the internet is hard. To stand out in the fashion sector is even harder. The goal was to represent a brand that wanted to create an instant impression and try and explore design in a fresh way.
-
-- This is a core website that will be built upon with future releases. The current website represents the start of the journey and the start of a more complex website.
-
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Challenges, Bugs and fixes
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
@@ -131,6 +131,9 @@ You can break the credits section up into Content and Media, depending on what y
 ### Media
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
+
+
+
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
 
