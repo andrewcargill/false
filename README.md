@@ -9,6 +9,7 @@ Engage. Intrigue. Inform. Use Red.
 
 This is done through breaking conventions and leaning more towards modern / abstract art and the use of negative space to give a simple and uncomplicated impacting result. 
 
+![Website on various devices](/assets/images/readme-main-image.jpg)
 
 ## Features
 ***
