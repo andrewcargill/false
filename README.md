@@ -56,7 +56,11 @@ PUT IN A SCREEN SHOT HERE
 ![Sign up zoom](/assets/images/readme-signup.png)
 #### Sign Up Interactive
 - The submit button features the word 'join' as it is softer and more playful than 'submit'.
-- User engagement is enhanced through a mouse over colour change on the submit button.
+- User engagement is enhanced through a mouse over-colour change on the submit button.
+
+![Social Media](/assets/images/readme-socialmedia.png)
+- The social media icone encourage engagement through mouse-over color change.
+- They sit in the footer of the site so as not dominante or distract from the sites current goals.
 
 ## Testing
 #### 
