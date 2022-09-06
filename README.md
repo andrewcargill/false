@@ -1,4 +1,4 @@
-# FASLE Urban Designer Clothing 
+# FALSE Urban Designer Clothing 
 FALSE Urban Designer Clothing is a site to promote a new high-end clothing brand called 'FALSE' which will be launching its first clothing range during Paris Fashion Week 2022. Users will find out when the event is taking place and be encouraged to sign up for 'exclusive access' to a live-stream event.  
 
 The site is targeted towards uppper middle class / upper class men and women aged 20-40 years old. The demographic have a passion for, and invest in, high-end fashion. They demand modern, fresh and exciting clothing. 
@@ -94,6 +94,8 @@ I have created my wireframes using Adobe XD and trying to translate them into re
 Padding and margins are extremly useful. When I started the project I was still a little unsure about how and when to use them. But as I got into the project I found my code was getting cleaner and my solutions were getting simplier.
 
 I grew to rely on and use Google Inspect more and more through the course of the project. The ability to identify elements, edit live and identify the specific code line number supported in a productive work flow.
+
+Something about how fixes are documented in commit messages.!!
 
 ### Validator Testing
 - HTML
