@@ -1,13 +1,13 @@
 # FASLE Urban Designer Clothing 
-False Urban Designer Clothing is a site to promote the launch of a new high end clothing company. Users will find out when the event is taking place and be encouraged to sign up for exclusive access.  
+FALSE Urban Designer Clothing is a site to promote the future launch of a new high end clothing brand at Paris Fashion Week. Users will find out when the event is taking place and be encouraged to sign up for exclusive access to a live-stream event.  
 
-The site is targeted towards uppper middle class / upper class men and women aged 20-40 years old. They already invest in high end fashion and are interested in modern, fresh and dynamic design and clothing.
+The site is targeted towards uppper middle class / upper class men and women aged 20-40 years old. They already invest in high end fashion and are interested in modern, fresh and dynamic designer and clothing. 
 
-The design is all geared around the companies need to want to be fresh, dynamic and stand out. The breif was: 
+The design is all geared around the companies need to want to be fresh, dynamic and stand out. 
 
-Engage. Intrigue. Inform. Use Red.
+The breif was: Engage. Intrigue. Inform. Use Red.
 
-This is done through breaking conventions and leaning more towards modern / abstract art and the use of negative space to give a simple and uncomplicated impacting result. 
+The design layout challenges some conventions and referrences modern / abstract art and the use of negative space, to give a simple and uncomplicated, but impacting result. 
 
 ![Website on various devices](/assets/images/readme-main-image.jpg)
 
@@ -30,9 +30,10 @@ PUT IN A SCREEN SHOT HERE
 ![Home Page](/assets/images/readme-home.png)
 
 #### Home
-- Designed to be off-center on larger screens and centered on mobile devices to get the impression of fresh and dynamic.
-- White container goes off the bottom of the screen to encourage user to explore and the question of what comes next?
-- minimal text and clean design will stand out against any other design company. We could not use images as this is a pre-release website.
+- Designed for the white box to be off-center on larger screens and centered on mobile devices to give the impression of fresh and dynamic.
+- White container goes off the bottom of the screen to encourage the user to explore and wonder 'what comes next?'
+- minimal text and clean design will stand out against any other design company. 
+- Image are not used as this is pre-release website and to keep the message of 'mystery' is important.
 
 ![Home text zoom](/assets/images/readme-home2.png)
 
@@ -43,16 +44,18 @@ PUT IN A SCREEN SHOT HERE
 
 ![Launch page](/assets/images/readme-launch.png)
 #### Launch Section
-- The user will come so a section of the website where the information is clear and their senses relax to take in the information.
-- The font of Paris Fashion Week give the feel of quality and status. Enhances the feeling that this is an important event and something to be part of.
+- The information is clear and the white background helps the users senses to relax and take in the information.
+- The font of Paris Fashion Week gives the message of quality and status. The text enhances the feeling that this is an important event and something to be part of.
 - The user is drawn to the date and location as this is the most important information on the page.
-- The video will only play when the user clicks play. The video is 40 secounds long as we do not want to distract the user away from other information on the page. 
+- The use of no imagary is intentional as it keeps the user nutrual. We do not want them to judge if they like or dislike the brand until they see the launch event.
+- The video will only run when the user clicks play. The video is 40 secounds long as we do not want to distract the user away from the site or other information on the page. 
 
 ![Sign up page](/assets/images/readme-signup2.png)
 #### Sign Up Section
-- The site switches back to dynamic minalmilist design to keep the user engaged and encouraged to take action.
+- The site switches back to dynamic minalmilist design to stiumate the user and encourae them take action.
 - The user to taken back to the emotion felt on the home page.
-- The message is simple and clear. It is important to not over sell this demagraphic.
+- The message is simple and clear.
+- It is important to not 'over sell' to this demagraphic.
 
 ![Sign up zoom](/assets/images/readme-signup.png)
 #### Sign Up Interactive
@@ -60,11 +63,23 @@ PUT IN A SCREEN SHOT HERE
 - User engagement is enhanced through a mouse over-colour change on the submit button.
 
 ![Social Media](/assets/images/readme-socialmedia.png)
-- The social media icone encourage engagement through mouse-over color change.
+#### Social Media
+- The social media icons encourage engagement through mouse-over color change.
 - They sit in the footer of the site so as not dominante or distract from the sites current goals.
 
 ## Testing
 #### 
+Extensive testing has been carried out to ensure that the site functions as intented. A single scroll page design was utilized to make navigating the site intitive and navigation is present for users who wish to go directly to a specific section of the site. 
+
+The site layout of landing page > Launch infomation > sign up > retailers creates a natural flow for the user. An average user will want to see this information and in this order. 
+
+Color is used to stimulate the user. To create feeling of shock and challenge the normal perseptions of 'what a website is'. This is intentional, as the company wants to stand out. It wants to show protential customers that they are not afriad to break the rules, that they are about to launch a clothing range that is something mew and dynamic. Fashion and art is all about stimulation. Asking questions and presenting challenges for the viewer. The website needed to do this, but in a way that did not leave the user alone or lost. Splitting the sections into white and red backgrounds keeps the stimulation for the user and supports their journey through the website. 
+
+The landing page will only be used for the build up to the launch of the company. It is envisaged that once the company is launched the site will evolve to display the clothes and inspirations the company wishes to promote. This website will proivde a core for this future expansion and designing around the idea of negative space.
+
+
+
+
 - Clear rational for the project
 This a company that had a bold image. in-your-face but still designer. They needed a site that would instantly get a reaction of 'wow' or even 'what's next?!'.
 
