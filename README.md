@@ -9,7 +9,7 @@ The breif in short: Engage. Intrigue. Inform. Use Red.
 
 The design layout aims to challenges conventions and referrences towards modern / abstract art and the use of negative space, to give a simple and uncomplicated, but impacting result. 
 
-![Website on various devices](/assets/images/readme-main-image.jpg)
+![Website on various devices](/assets/images/readme_main_image.jpg)
 
 ## Features
 ***
@@ -25,7 +25,7 @@ PUT IN A SCREEN SHOT HERE
 - Club ethos
 
 
-![Home Page](/assets/images/readme-home.png)
+![Home Page](/assets/images/readme_home.png)
 
 #### Home
 - Designed for the white box to be off-center on larger screens and centered on mobile devices in reference to abstract art and a clear use of negative space.
@@ -33,14 +33,14 @@ PUT IN A SCREEN SHOT HERE
 - minimal text and clean design will stand out against other design companies. 
 - Images are not used as this is pre-release website. The company wants to promote the feelings of 'mystery' and 'what's coming?'.
 
-![Home text zoom](/assets/images/readme-home2.png)
+![Home text zoom](/assets/images/readme_home2.png)
 
 
 #### Home text
 - Clear company message
 - Text zooms and changes colour on mouse over
 
-![Launch page](/assets/images/readme-launch.png)
+![Launch page](/assets/images/readme_launch.png)
 #### Launch Section
 - The information is clear with the white background helping the users to relax and take in the information.
 - The font of Paris Fashion Week gives the message of quality and status. The text enhances the feeling that this is an important event and something to be part of.
@@ -48,24 +48,24 @@ PUT IN A SCREEN SHOT HERE
 - The use of no imagary is intentional as it keeps the user nutrual. We do not want them to judge if they like or dislike the brand until they see the launch event.
 - The video will only run when the user clicks play. The video is 40 secounds long as we do not want to distract the user away from the site. 
 
-![Sign up page](/assets/images/readme-signup2.png)
+![Sign up page](/assets/images/readme_signup2.png)
 #### Sign Up Section
 - The site switches back to dynamic minalmilist design to stiumate the user and encourage them take action.
 - The user to taken back to the emotion felt on the home page.
 - The message is simple and clear.
 - We felt it was important to not 'over sell', as this is not liked by the target demographic.
 
-![Sign up zoom](/assets/images/readme-signup.png)
+![Sign up zoom](/assets/images/readme_signup.png)
 #### Sign Up Interactive
 - The submit button features the word 'join' as it is softer and more playful than 'submit'.
 - User engagement is enhanced through a mouse over-colour change on the submit button.
 
-![Retailers](/assets/images/readme-retailers.png)
+![Retailers](/assets/images/readme_retailers.png)
 #### Retailers
 - This section of the site is included to promote the companies who will be re-selling the clothes.
 - User interaction can be found with a mouse over color change on the 'visit website' link under each retailer
 
-![Social Media](/assets/images/readme-socialmedia.png)
+![Social Media](/assets/images/readme_socialmedia.png)
 #### Social Media
 - The social media icons encourage engagement through mouse-over color change.
 - They sit in the footer of the site so as not dominante or distract from the sites current goals.
