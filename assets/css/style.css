@@ -55,18 +55,18 @@ body {
 
 
 nav {
-position: fixed;
-display: flex;
-flex-direction: row;
-flex-wrap: nowrap;
-justify-content: space-between;
-align-items: center;
-width: 100%;
-z-index: 3;
-padding: 5px;
-border-bottom: 3px solid #fff;
-background-color: #e31c1c;
-vertical-align: middle;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    z-index: 3;
+    padding: 5px;
+    border-bottom: 3px solid #fff;
+    background-color: #e31c1c;
+    vertical-align: middle;
 
 }
 
@@ -98,11 +98,12 @@ nav li a {
     padding-right: 2vw;
 }
 
-#nav-logo img{
+#nav-logo img {
     vertical-align: middle;
     display: inline;
     height: 25px;
 }
+
 /* navigation links styling */
 
 nav a:link {
@@ -457,7 +458,7 @@ video {
     width: 350px;
 }
 
- /* Footer */
+/* Footer */
 
 footer {
     background-color: #fff;
