@@ -248,6 +248,7 @@ video {
     flex-wrap: wrap;
     justify-content: flex-start;
     align-content: space-between;
+    min-height: 650px;
     width: 100%;
     padding-top: 5vh;
     height: 70vh;
