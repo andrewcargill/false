@@ -496,6 +496,14 @@ footer h2 {
 
     /* launch Section */
 
+    #launch-nav {
+        height: 135px;
+    }
+
+    #launch-section-container {
+        min-height: 100vh;
+    }
+
     #launch-section-container h2 {
         display: inline;
     }
@@ -512,12 +520,16 @@ footer h2 {
         margin-top: 7vw;
     }
 
+    #launch-section-logos {
+        margin-top: 15vh;
+    }
+
     #launch-section-logos img {
         max-height: 27px;
     }
 
     video {
-        width: 100%;
+        width: 60%;
     }
 
     #launch-section-lpw-logo {
@@ -541,7 +553,7 @@ footer h2 {
 
     #sign-up-text {
         width: auto;
-        margin: 5vw 8vw;
+        margin: 0 8vw;
         padding: 0;
     }
 
@@ -549,7 +561,7 @@ footer h2 {
         text-align: left;
         color: white;
         margin: 0;
-        padding-bottom: 50px;
+        padding-bottom: 6px;
     }
 
     #sign-up-container p {
@@ -569,8 +581,16 @@ footer h2 {
 
     #form-container {
         padding-left: 8vw;
+        padding-top: 0;
     }
 
+    .input-container {
+        min-width: 250px;
+    }
+
+    #submit input {
+        margin-top: 30px;
+    }
     /* about us section */
 
     #about-background {
@@ -729,6 +749,10 @@ footer h2 {
 
     /*launch section */
 
+    #launch-nav {
+        height: 40px;
+    }
+
     #launch-section-container h2 {
         display: inline;
     }
@@ -771,9 +795,9 @@ footer h2 {
     }
 
     #sign-up-text {
-        order: 1;
-        padding-left: 8vw;
-        width: 90%;
+        width: auto;
+        margin: 5vw 8vw;
+        padding: 0;
     }
 
     #sign-up-container h2 {
@@ -833,7 +857,8 @@ footer h2 {
 
     #about-image img {
         height: auto;
-        width: 100%;
+        width: 50%;
+        margin-left: 4vw;
         max-width: none;
     }
 
