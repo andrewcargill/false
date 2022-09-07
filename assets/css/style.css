@@ -204,7 +204,7 @@ nav a:hover {
     font-style: normal;
     font-weight: lighter;
     font-size: 8vw;
-} 
+}
 
 #launch-sub-heading {
     color: #707070;
@@ -466,6 +466,8 @@ footer h2 {
 
     /* landing page */
 
+    /*The figcaption code below was written in reference to an artical by moz.com */
+
     figcaption {
         display: none;
     }
@@ -592,6 +594,7 @@ footer h2 {
     #submit input {
         margin-top: 30px;
     }
+
     /* about us section */
 
     #about-background {
