@@ -7,7 +7,7 @@ The sites design is all geared around the companies need to be dynamic and stand
 
 The brief in short: Engage. Intrigue. Inform. Use Red.
 
-The design layout needed to challenge conventions and so references towards modern / abstract art and the use of negative space, to give a simple and uncomplicated, but impacting result. 
+The design layout aims to challenge conventions. We reference minamilist / abstract art and use negative space to give a simple and uncomplicated, but impacting result. 
 
 ![Website on various devices](/assets/images/readme_main_image.jpg)
 
@@ -19,25 +19,30 @@ The design layout needed to challenge conventions and so references towards mode
 
 - Navigation
     -  Designed to be static for easy access.
-    -  User feedback when the user hovers or clicks
+    -  User feedback with text and background colour change on hover or click
     -  Simple design so as not to distract from sites goals
 
 
 ![Home Page](/assets/images/readme_home.png)
 
 - Home
-    - Designed for the white box to be off-center on larger screens and centered on mobile devices in reference to abstract art and a clear use of negative space.
+    - Instant impact is gained by presenting the user with large blocks of colour. 
+    - Designed for the white box to be off-center on larger screens and centered on mobile devices. 
     - White container goes off the bottom of the screen to encourage the user to explore and wonder, 'what comes next?'
-    - minimal text and clean design will stand out against other design companies. 
+    - Minimal text and clean design will stand out against other design companies. 
     - Images are not used as this is a pre-release website. The company wants to promote the feelings of 'mystery' and 'what's coming?'.
 
 
 ![Home text zoom](/assets/images/readme_home2.png)
 
-
 - Home text
     - Clear company message.
     - Text zooms and changes colour on mouse over.
+
+![Tree Transition](/assets/images/readme_tree.png)
+- Tree transition
+    - This element helps draw the user down into the launch section of the website. 
+    - A soft transition from the vivid to the more relaxing atmosphere of the white background.
 
 ![Launch page](/assets/images/readme_launch.png)
 - Launch Section
@@ -123,42 +128,30 @@ This project contains no external code. All the code in this project was written
 
 ### Content
 - Font are from [Adobe Fonts](https://fonts.adobe.com/fonts) and [Google Fonts](https://fonts.google.com/about)
-
  - Information was taken from [Paris Fashion Week](https://www.cqlcorp.com/insights/6-step-guide-to-using-adobe-fonts-on-your-next-web-project/)
-
 - To refresh HTML Semantics I read [developer.mozilla.com](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 )
-
 - For font size guidelines I referenced [smashing magazine](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/#:~:text=In%20general%2C%20the%20rule%20of,readability%20for%20visually%20impaired%20readers.)
-
  - Tutorial on embedding video was from [w3schools](https://www.w3schools.com/html/html5_video.asp)
-
  - Various image tutorials were: [object fit](https://www.w3schools.com/css/css3_object-fit.asp), [image cropping](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit)
-
  - The icons in the footer were taken from [Font Awsome](https://fontawesome.com/)
-
  - Information on [measure units](https://www.w3schools.com/cssref/css_units.asp)
-
  - Reference for [create centered menu](https://www.w3schools.com/howto/howto_css_topnav_centered.asp)
-
  - Reference for [Html Forms](https://www.w3schools.com/html/html_forms.asp)
-
  - Reference for Flex box [ccs-tricks](https://css-tricks.com/responsive-layouts-fewer-media-queries/) and [css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
  - For smooth scroll I referenced [gomakethings.com](https://gomakethings.com/smooth-scrolling-links-with-only-css/
 )
-
 - Reference for screen sizes was from [browserstack](https://www.browserstack.com/guide/responsive-design-breakpoints
 )
-
 - Reference for hidding text or elements was from [moz.com](https://moz.com/blog/guide-to-hidden-text)
 
 ### Media
  - Images on the site are from [iStock by Getty Image](https://istockphoto.com)
  - Music in the video was made by and used with the permission of [Dark Arts Club](https://www.instagram.com/the_dark_arts_club/?hl=en)
- - video was made using [Adobe Premiere Pro](https://www.adobe.com/se/products/premiere.html?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMRYSAMcGSQefo5KXrvKOlVqj9uKkJNZbPqa40NO4uIK0u34Q0byUKcaAlzCEALw_wcB&mv=search&mv=search&sdid=LQLZT7BT&ef_id=Cj0KCQjw39uYBhCLARIsAD_SzMRYSAMcGSQefo5KXrvKOlVqj9uKkJNZbPqa40NO4uIK0u34Q0byUKcaAlzCEALw_wcB:G:s&s_kwcid=AL!3085!3!340839217843!e!!g!!adobe%20premiere!1469953160!58520344553)
+ - The video was made using [Adobe Premiere Pro](https://www.adobe.com/se/products/premiere.html?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMRYSAMcGSQefo5KXrvKOlVqj9uKkJNZbPqa40NO4uIK0u34Q0byUKcaAlzCEALw_wcB&mv=search&mv=search&sdid=LQLZT7BT&ef_id=Cj0KCQjw39uYBhCLARIsAD_SzMRYSAMcGSQefo5KXrvKOlVqj9uKkJNZbPqa40NO4uIK0u34Q0byUKcaAlzCEALw_wcB:G:s&s_kwcid=AL!3085!3!340839217843!e!!g!!adobe%20premiere!1469953160!58520344553)
  - Sound was edited using [Logic Pro X](https://www.apple.com/logic-pro/)
  - Images were edited using [Adobe Photoshop](https://www.adobe.com/se/products/photoshop/landpb.html?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMSAro3DTlHKXUSHb9Btxli6K7nEZ0ej3UpqYP7wLy-sSvTD_4f3DPYaAh2CEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjw39uYBhCLARIsAD_SzMSAro3DTlHKXUSHb9Btxli6K7nEZ0ej3UpqYP7wLy-sSvTD_4f3DPYaAh2CEALw_wcB:G:s&s_kwcid=AL!3085!3!597384934920!e!!g!!adobe%20photoshop!1469952956!58520335113)
  - Wireframes were created using [Adobe XD](https://www.adobe.com/products/xd.html)
+ - Tree transition image was an image I modified from [Poster Poster](http://www.posterposter.org/road-letters-typographic-posters/) and created by [Diego Machado](https://www.behance.net/digous)
 
 
