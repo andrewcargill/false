@@ -490,7 +490,301 @@ footer h2 {
     color: black;
 }
 
-@media only screen and (max-width: 600px) and (min-width:280px) {
+
+@media only screen and (max-width: 321px) and (min-width:270px) {
+
+    /* landing page */
+
+    /*The figcaption code below was written in reference to an artical by moz.com */
+
+    nav {
+        flex-wrap: wrap;
+        padding: 5px 0;
+        height: auto;
+    }
+
+    #nav-links {
+        width: 100%;
+        order: 2;
+    }
+
+    #nav-logo {
+        display: none;
+        width: 100%;
+        text-align: center;
+        padding-right: 0;
+    }
+
+    nav ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 25px;
+        padding: 0 4px;
+    }
+
+    nav li {
+        font-size: 14px;
+    }
+
+    #nav-links li:first-child {
+        margin-left: 0;
+    }
+
+
+    figcaption {
+        display: none;
+    }
+
+    #landing-page-whitebox {
+        position: absolute;
+        bottom: 0;
+        left: 10%;
+        right: 10%;
+        background-color: #fff;
+        width: auto;
+        height: 65%;
+    }
+
+    #designer-clothing-text {
+        font-size: 20px;
+    }
+
+    #landing-page-logo {
+        align-self: center;
+        width: 80%;
+    }
+
+    #image-is-everything-text {
+        top: 40%;
+    }
+
+    .red-spacer {
+        background-color: #e31c1c;
+        width: 100%;
+        min-height: 10vh;
+    }
+
+    /* launch Section */
+
+    #launch-nav {
+        height: 135px;
+    }
+
+    #launch-section-container {
+        min-height: 100vh;
+    }
+
+    #launch-section-container h2 {
+        display: inline;
+    }
+
+    #launch-sub-heading {
+        text-align: center;
+        font-size: 12px;
+        padding: 0 5vw;
+    }
+
+    #launch-event-details {
+        text-align: center;
+        font-size: medium;
+        margin-top: 7vw;
+    }
+
+    #launch-section-logos {
+        margin-top: 15vh;
+    }
+
+    #launch-section-logos img {
+        max-height: 27px;
+    }
+
+    video {
+        width: 60%;
+    }
+
+    #launch-section-lpw-logo {
+        padding: 10vw 10vw 5vw 10vw;
+
+    }
+
+    /* sign up section */
+
+    #sign-up-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: space-between;
+        padding-top: 5vh;
+        height: auto;
+        padding-bottom: 5vh;
+        background-color: #e31c1c;
+    }
+
+    #sign-up-text {
+        width: auto;
+        margin: 0 8vw;
+        padding: 0;
+    }
+
+    #sign-up-container h2 {
+        text-align: left;
+        color: white;
+        margin: 0;
+        padding-bottom: 6px;
+    }
+
+    #sign-up-container p {
+        color: white;
+    }
+
+
+    #white-triangle {
+        display: none;
+        order: -1;
+        background-color: pink;
+    }
+
+    #white-triangle img {
+        height: 10px;
+    }
+
+    #form-container {
+        padding-left: 8vw;
+        padding-top: 0;
+    }
+
+    .input-container {
+        min-width: 224px;
+    }
+
+    #submit input {
+        margin-top: 30px;
+    }
+
+    /* about us section */
+
+    #about-background {
+        position: relative;
+        height: auto;
+        padding-bottom: 0;
+    }
+
+    #about-text {
+        order: 2;
+        width: 100%;
+        margin: 5vw 8vw;
+    }
+
+    h2 {
+        font-size: xx-large;
+        text-align: left;
+    }
+
+    p {
+        font-size: medium;
+        text-align: justify;
+    }
+
+    #about-image {
+        order: 1;
+        width: 100%;
+        margin-top: 10vh;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    #about-image-container {
+        width: 100%;
+    }
+
+    #about-image img {
+        height: auto;
+        width: 100%;
+        max-width: none;
+    }
+
+    .collection-logo img {
+        position: static;
+        margin-bottom: 20vw;
+        width: 80%;
+        margin: 5vw 5vw 3vw 8vw;
+        max-height: 137px;
+        max-width: 519px;
+    }
+
+    /* reailers section */
+
+    #retailers-false-logo {
+        order: 2;
+        display: inline-block;
+        text-align: center;
+        margin: 0 0 0 0;
+        padding-top: 8vw;
+        padding-right: 8vw;
+        padding-left: 8vw;
+        margin-top: 0;
+    }
+
+    #retailers-false-logo img {
+        margin: 0;
+    }
+
+    #retailers-text {
+        padding-top: 5vw;
+        width: 100%;
+        text-align: center;
+        order: 3;
+    }
+
+    #retailers-address {
+        padding-bottom: 15vh;
+        padding-top: 5vw;
+        padding-left: 0;
+    }
+
+    #retailers h2 {
+        text-align: center;
+        margin-top: 0;
+        padding: 18px 0 18px 0;
+    }
+
+    #retailers-address ul {
+        padding-top: 10vw;
+        padding-left: 0;
+        margin-top: 0;
+    }
+
+    #retailers-address li {
+        font-size: large;
+    }
+
+    #retailers-image {
+        padding-top: 5vw;
+        text-align: center;
+        padding-left: 8vw;
+        padding-right: 8vw;
+        order: 1;
+        width: 100%;
+    }
+
+    #rose-image {
+        padding-top: 50px;
+        margin: 0;
+    }
+
+    #rose-image img {
+        padding: 0;
+        width: 80%;
+        height: 200px;
+        object-fit: cover;
+        object-position: 100% 9%;
+    }
+}
+
+
+@media only screen and (max-width: 600px) and (min-width:322px) {
 
     /* landing page */
 
@@ -651,7 +945,7 @@ footer h2 {
     }
 
     .input-container {
-        min-width: 224px;
+        min-width: 351px;
     }
 
     #submit input {
