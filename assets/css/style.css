@@ -418,7 +418,7 @@ video {
     font-size: smaller;
     background-color: #e31c1c;
     color: #fff;
-    border: 1px dotted #fff;
+    text-decoration: underline;
     margin-top: 20px;
 }
 
