@@ -122,10 +122,11 @@ There were various small bugs and fixes along the way, which are documented in t
 - HTML
     - No errors were returned when passing through the official W3C validator
 - CSS
-    -No errors were found when passing through the official (Jigsaw) validator
+    - No errors were found when passing through the official (Jigsaw) validator
+- Lighthouse
+    - The site scored very well.
+![Lighthouse Results](/assets/images/readme_lighthouse.png)
 
-### Unfixed Bugs
-The menu is my main bug. It works, but it does not look great on mobile devices. An easy fix would have been to use Java script to create a 'hamburger menu'. As this was a clear html/css project, I felt there was a risk the grading might work against me had I included Javascript in the project.
 
 ## Deployment
 ***
