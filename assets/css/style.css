@@ -799,7 +799,7 @@ footer h2 {
     }
 
     #nav-logo {
-        display: none;
+    /*  display: none; */
         width: 100%;
         text-align: center;
         padding-right: 0;
