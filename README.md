@@ -18,9 +18,11 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
 ![Navigation](/assets/images/readme_navigation.png)
 
 - Navigation
-    -  Designed to be static for easy access.
-    -  User feedback with text and background colour change on hover or click
-    -  Simple design so as not to distract from sites goals
+    -  Designed to be fixed to the top of the screen for easy access.
+    -  User feedback through text and background colour change on hover and purple text change on menu items that been selected.
+    - To retain a good design the space between menu items change in response to the screen width.
+    - On mobile devices the menu items are centered and the logo removed to retain minimalist feel.
+    -  Simple design so as not to distract.
 
 
 ![Home Page](/assets/images/readme_home.png)
@@ -28,8 +30,8 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
 - Home
     - Instant impact is gained by presenting the user with large blocks of colour. 
     - Designed for the white box to be off-center on larger screens and centered on mobile devices. 
-    - White container goes off the bottom of the screen to encourage the user to explore and wonder, 'what comes next?'
-    - Minimal text and clean design will stand out against other design companies. 
+    - White container goes off the bottom of the screen to encourage the user to explore and ask "What comes next?".
+    - Minimal text and clean design to stand out against other design companies. 
     - Images are not used as this is a pre-release website. The company wants to promote the feelings of 'mystery' and 'what's coming?'.
 
 
@@ -46,11 +48,11 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
 
 ![Launch page](/assets/images/readme_launch.png)
 - Launch Section
-    - The information is clear with the white background helping the users to relax and take in the information.
-    - The font of Paris Fashion Week gives the message of quality and status. The text enhances the feeling that this is an important event and something to be part of.
-    - The user is drawn to the date and location, as this is the most important information on the page.
+    - The white background helps users to relax and take in the information.
+    - The font of Paris Fashion Week gives the message of quality and status. The text enhances the feeling that this is a prestigious event and something to be part of.
+    - As the only black text on the screen, the user is drawn to the date and location. This is the most important information on the screen.
     - The use of no imagery is intentional, as it keeps the user neutral. We do not want them to judge if they like or dislike the brand until they see the launch event.
-    - The video will only run when the user clicks play. The video is 40 seconds long, as we do not want to distract the user away from the site. 
+    - The video will only run when the user clicks play. The video is 40 seconds long, as we do not want to distract them away from the site. 
 
 ![Sign up page](/assets/images/readme_signup2.png)
 - Sign Up Section
@@ -64,13 +66,28 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
     - The submit button features the word 'join' as it is softer and more playful than 'submit'.
     - User engagement is enhanced through a mouse-over colour change on the submit button.
 
-![Retailers](/assets/images/readme_retailers.png)
-- Retailers
-    - This section of the site is included to promote the companies who will be re-selling the clothes.
-    - User interaction can be found with a mouse over color change on the 'visit website' link under each retailer
 
-![Social Media](/assets/images/readme_socialmedia.png)
-- Social Media
+![About Us](/assets/images/readme_aboutus.png)
+- About Us
+    - The White background makes the text easy to read.
+    - A Soft type font makes for a friendly feel.
+    - To help retain the user the page uses negative space. This is enhanced via minumal text and placing the main image un-aligned. The 2022 collection logo frames the page and helps enforce the design concept.
+    - Flexible margins are used to retain the design over various screen sizes.
+    - On mobile devices the elements re-order and stack.
+
+
+![Retailers](/assets/images/readme_retailers.png)
+
+- Retailers
+    - This section of the site promotes the retailers who will be re-selling the clothes.
+    - A red background serves as a call-to-action to the user. Users are softly encouraged to visit the retailers.
+    - A red rose brings warm and emotion to the page. 
+    - The feeling of space is created via the spacing between the pages elements. The left margin frames the design and the rose floats to the right.
+    - User interaction can be found with a mouse over color change on the 'visit website' link under each retailer
+    - On mobile devices the elements re-order, stack and center. 
+
+
+![Social media](/assets/images/readme_socialmedia.png)
     - The social media icons encourage engagement through mouse-over color change.
     - They sit in the footer of the site so as not to distract from the site's current goals.
 
