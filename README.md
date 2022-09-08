@@ -59,12 +59,11 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
     - The site switches back to dynamic minimalist design to stimulate the user and encourage action to be taken.
     - The user to taken back to the emotion felt on the home page.
     - The message is simple and clear.
-    - We felt it was important to not 'over sell', as this is not liked by the target demographic.
-
-![Sign up zoom](/assets/images/readme_signup.png)
-- Sign Up Interactive
+    - It is important to not 'over sell', as this is not liked by the target demographic.
+    - The design is fluid. An example of this are the white boxes containing the input elements. These stretch as the screen width increases to maintain the design aesthetic.
     - The submit button features the word 'join' as it is softer and more playful than 'submit'.
     - User engagement is enhanced through a mouse-over colour change on the submit button.
+    - To maintain the design on mobile devices the elements re-oder and the triangle graphic is hidden.
 
 
 ![About Us](/assets/images/readme_aboutus.png)
