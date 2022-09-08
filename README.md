@@ -98,23 +98,23 @@ Extensive testing has been carried out to ensure that the site functions as inte
 
 The site layout of landing page > Launch information > sign up > retailers creates a natural flow for the user. An average user will want to see this information and in this order. 
 
-Color is used to stimulate the user. To create feelings of anticipation and challenge the normal perceptions of 'what a website should look like'. This is intentional, as the company wants to show potential customers that they are not afraid to break the rules, that they are about to launch a clothing range that is something new and something exciting. Fashion and art is all about stimulation. Presenting challenges and emotions for the viewer. This website needed to do this, but in a way that did not leave the user feeling stranded or lost. Splitting the website into sections and alternating white and red backgrounds keeps the user engaged and supports their journey through the website. 
+Color is used to stimulate the user, this to create feelings of anticipation and challenge the normal perceptions of 'what a website should look like'. This is intentional, as the company wants to show potential customers that they are not afraid to break the rules, that they are about to launch a clothing range that is something new and something exciting. Fashion and art is all about stimulation. Presenting challenges and emotions for the viewer. This website needed to do this, but in a way that did not leave the user feeling stranded or lost. Splitting the website into sections and alternating white and red backgrounds keeps the user engaged and supports their journey through the website. 
 
-Soft feeling fonts are used across the website to act as a friendly voice against the dynamic design and color. The event information on the landing page was the only place a more impactive font was used, as it was an announcement that what to be direct, clear and not ignored.  
+Soft feeling fonts are used across the website to act as a friendly voice against the dynamic design and color. The event information on the landing page is the only place where more impactive font is used, so as to be direct clear and not ignored.  
 
-The site functions well on mobile and desktop devices. Three different screen widths were used to ensure the site looks good on all platforms. On mobile devices, the color is the main element used to create an impactful site, whereas for the larger screens, imaginative placements of text and images could be used to enhance the site's appeal.
+The site functions well on mobile and desktop devices. Four different screen widths were used to ensure the site looks good on all platforms. On mobile devices, color and horizontal space are the main elements used to create an impactful site, whereas for the larger screens, imaginative placements of text and images enhance the sites message.
 
 ### Challenges, Bugs and fixes
 
-The scaling of the site was very challenging. I extensively explored the various measurement units that could be used to control scaling (such: as px,vw,rem) and strived to use them to support my design goals for the sites. 
+The scaling of the site was very challenging. I extensively explored the various measurement units that could be used to control scaling (such: as px,vw,rem) and strived to use them to support my design goals for the site. 
 
-I created my wireframes using Adobe XD and trying to translate them into reality proved challenging as in many sections of the site the elements move as the screen size enlarges and then the elements re-order when they are scaled down to mobile devices. Flex  helped  me to create the desired effect, although I feel the site is visually stronger on laptops and monitors. 
+I created my wireframes using Adobe XD. Trying to translate those wireframes into reality proved challenging, as in many sections of the site the elements move as the screen size enlarges and then the elements re-order when they are scaled down to mobile devices. Flex  helped  me to create the desired effect.
 
 Padding and margins are extremely useful! When I started the project, I was still a little unsure about how and when to use them. As the building progressed,  and my understanding grew, I could see that my code was getting cleaner and my solutions were getting simpler.
 
 I grew to rely heavily on Google Inspect. The ability to identify elements, edit live and quickly identify specific code lines created a productive work flow.
 
-The site is tested on Google Inspect using the various mobile phone emulations, and I used a MacBook Pro (2017) with a large external monitor for testing the large scaling of the site.  The site has only been tested on Google Chrome.
+The site is tested on Google Inspect using the various mobile phone emulations, and I used a MacBook Pro (2017) with a large external monitor for testing the large scaling of the site.  The site has been tested on Google Chrome, Safari and Brave.
 
 There were various small bugs and fixes along the way, which are documented in the GitHub commit history.
 
@@ -127,17 +127,19 @@ There were various small bugs and fixes along the way, which are documented in t
     - The site scored very well.
 ![Lighthouse Results](/assets/images/readme_lighthouse.png)
 
+### Unfixed Bugs
+
+No unfixed bugs
 
 ## Deployment
 ***
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-    - In the GitHub repository, navigate to the Settings tab
-    - From the source section drop-down menu, select the Master Branch
-    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The site was deployed to GitHub page using the following steps:
+    - From the GitHub repository, select the Setting tab.
+    - From the left hand menu select Pages.
+    - Click on Branch and select main and then save.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+Here is a live link to the site [FALSE Urban Designer Clothing](https://andrewcargill.github.io/false/)
 
 ## Credits
 ***
