@@ -87,6 +87,8 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
 
 
 ![Social media](/assets/images/readme_socialmedia.png)
+
+- Social Media
     - The social media icons encourage engagement through mouse-over color change.
     - They sit in the footer of the site so as not to distract from the site's current goals.
 
