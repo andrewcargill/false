@@ -19,7 +19,7 @@ The design layout aims to challenge conventions. We reference minamilist / abstr
 
 - Navigation
     -  Designed to be fixed to the top of the screen for easy access.
-    -  User feedback through text and background colour change on hover and purple text change on menu items that been selected.
+    -  User feedback through text and background colour change on hover.
     - To retain a good design the space between menu items change in response to the screen width.
     - On mobile devices the menu items are centered and the logo removed to retain minimalist feel.
     -  Simple design so as not to distract.
