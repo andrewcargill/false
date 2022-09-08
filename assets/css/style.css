@@ -83,7 +83,6 @@ nav li {
     float: left;
     display: block;
     margin-left: 4vw;
-    padding-top: 2px;
     font-family: halyard-display, 'Source Sans Pro', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -112,12 +111,11 @@ nav a:link {
 
 nav a:visited {
     text-decoration: none;
-    color: purple;
+    color: #fff;
 }
 
 nav li:hover {
     background-color: white;
-    
 }
 
 nav a:hover {
