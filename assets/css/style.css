@@ -335,6 +335,7 @@ video {
     font-family: halyard-display, "source Sans Pro", sans-serif;
     border: none;
     background-color: #fff;
+    color: black;
     text-transform: uppercase;
     font-size: 30px;
     font-weight: 100;
