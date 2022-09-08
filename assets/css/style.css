@@ -64,6 +64,7 @@ nav {
     z-index: 3;
     padding: 5px;
     border-bottom: 3px solid #fff;
+    border-top: 3px solid #fff;
     background-color: #e31c1c;
     vertical-align: middle;
 }
@@ -84,6 +85,7 @@ nav li {
     font-family: halyard-display, 'Source Sans Pro', sans-serif;
     font-weight: 500;
     font-size: 16px;
+    padding: 0 5px 5px 5px;
 }
 
 nav li a {
@@ -107,6 +109,10 @@ nav a:link {
     color: white;
 }
 
+nav li:hover >a {
+    color: #e31c1c;
+}
+
 nav a:visited {
     text-decoration: none;
     color: #fff;
@@ -116,9 +122,10 @@ nav li:hover {
     background-color: white;
 }
 
+/*
 nav a:hover {
     color: #e31c1c;
-}
+} */
 
 /* landing page */
 
@@ -524,6 +531,8 @@ footer h2 {
 
     nav li {
         font-size: 14px;
+        font-size: 12px;
+        margin-left: 2vw;
     }
 
     #nav-links li:first-child {
@@ -800,10 +809,14 @@ footer h2 {
     }
 
     #nav-logo {
-    /*  display: none; */
         width: 100%;
         text-align: center;
         padding-right: 0;
+        padding-bottom: 4px;
+    }
+
+    #nav-logo img {
+        height: 22px;
     }
 
     nav ul {
