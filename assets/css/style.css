@@ -942,7 +942,7 @@ footer h2 {
     }
 
     .input-container {
-        min-width: 351px;
+        min-width: 293px;
     }
 
     #submit input {
@@ -1185,6 +1185,11 @@ footer h2 {
 
     #input-container label {
         font-size: large;
+    }
+
+    .input-container {
+        min-width: 350px;
+        width: 60vw;
     }
 
     /* about us */
